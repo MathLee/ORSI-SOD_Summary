@@ -46,14 +46,12 @@
 01 | **IEEE TGRS** | Nested Network with Two-Stream Pyramid for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/8793227)/[Code](https://li-chongyi.github.io/proj_optical_saliency.html)
 
 
-  
-
 ## Traditional methods
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **ICCV** | Learning RGB-D Salient Object Detection using background enclosure, depth contrast, and top-down features | [Paper](http://arxiv.org/pdf/1705.03607)/[Code](https://github.com/sshige/rgbd-saliency)
-02 | **IEEE TIP** | DF: RGBD Salient Object Detection via Deep Fusion | [Paper](http://arxiv.org/pdf/1607.03333)/[Code](https://pan.baidu.com/s/1Y-PqAjuH9xREBjfl7H45HA)
-03 | **IEEE TCyb** | CTMF: Cnns-based rgb-d saliency detection via cross-view transfer and multiview fusion | [Paper](http://ieeexplore.ieee.org/iel7/6221036/6352949/08091125.pdf)/[Code](https://github.com/haochen593/PCA-Fuse_RGBD_CVPR18)
+01 | **IEEE GRSL** | Airport Extraction via Complementary Saliency Analysis and Saliency-Oriented Active Contour Model | [Paper](https://ieeexplore.ieee.org/document/8353414)/[ode
+02 | **Remote Sensing** | Unsupervised Saliency Model with Color Markov Chain for Oil Tank Detection | [Paper](https://www.mdpi.com/2072-4292/11/9/1089)/Code
+03 | **IJRS** | Saliency Detection based on Self-adaptive Multiple Feature Fusion for Remote Sensing Images | [Paper](https://www.tandfonline.com/doi/abs/10.1080/01431161.2019.1608384?journalCode=tres20)/Code
 
 # Related Survery    <a id="Related Survery" class="anchor" href="Related Survery" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 * [RGB-D SOD Survery](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
