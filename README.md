@@ -57,7 +57,7 @@
 * [RGB SOD Survery](https://github.com/wenguanwang/SODsurvey)
 * [Video SOD Survery](https://github.com/wenguanwang/DHF1K)
 * [RGB-D SOD Survery<sup>1<sup>](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
-* [RGB-D SOD Survery2](https://github.com/taozh2017/RGBD-SODsurvey)
+* [RGB-D SOD Survery<sup>2<sup>](https://github.com/taozh2017/RGBD-SODsurvey)
 * [RGB-T SOD Survery](https://github.com/lz118/RGBT-Salient-Object-Detection)
 * [COD Survery](http://dpfan.net/Camouflage/)
 
@@ -67,6 +67,6 @@
 * [ORSI-4199 dataset](https://pan.baidu.com/s/1ZWVSzFpRjN4BK-c9hL6knQ) (Code: fy06): 2000 training, 2199 testing.
 
 # Evaluation Metrics  <a id="Evaluation Metrics" class="anchor" href="Evaluation Metrics" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
-* Saliency maps [evaluation tool1](http://dpfan.net/d3netbenchmark/) or [evaluation tool2](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox), including S-measure, E-measure, F-measure, MAE scores and PR curves.       
+* Saliency maps [evaluation tool<sup>1<sup>](http://dpfan.net/d3netbenchmark/) or [evaluation tool<sup>2<sup>](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox), including S-measure, E-measure, F-measure, MAE scores and PR curves.       
 
     
