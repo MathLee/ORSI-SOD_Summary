@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images: A Survey           
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **RSI SOD**: Add six ICCV21 papers, one ACMM21 paper                 
+ :heavy_exclamation_mark:  **RSI SOD**: Add three IEEE TGRS papers                
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
