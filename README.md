@@ -1,33 +1,20 @@
-# RSI-SOD_Summary
-Salient Object Detection in Optical Remote Sensing Images: A Survey
-
-# SOD CNNs-based Read List       
-
-In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
+# Salient Object Detection in Optical Remote Sensing Images: A Survey           
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add six ICCV21 papers, one ACMM21 paper                 
- :heavy_exclamation_mark:  **3D SOD**: Add one TIP21 paper and two ACMM21 papers and two ICCV21 papers   
- :heavy_exclamation_mark:  **LF SOD**: Add three ICCV21, IEEE TCyB21 and ACMM21 papers   
- :heavy_exclamation_mark:  **Video SOD** : Add four CVPR21, ACMM21 and ICCV21 papers. 
+ :heavy_exclamation_mark:  **RSI SOD**: Add six ICCV21 papers, one ACMM21 paper                 
 
 :running: **We will keep updating it.** :running:    
 --------------------------------------------------------------------------------------
-
 
 ------
  
 
 ## Content:
 
-1. <a href="#Overall"> An overview of the Paper List </a>
-2. <a href="#2D RGB Saliency Detection"> 2D RGB Saliency Detection </a>
-3. <a href="#3D RGB-D Saliency Detection">  3D RGB-D/T Saliency Detection </a>
-4. <a href="#4D Light Field Saliency Detection"> 4D Light Field Saliency Detection </a>
-5. <a href="#Video Salient Object Detection"> Video Saliency Detection </a>
-6. <a href="#Earlier Methods"> Survery and earlier Methods </a>
-7. <a href="#The SOD dataset download"> The SOD dataset download </a>
-8. <a href="#Evaluation Metrics"> Evaluation Metrics </a>
+1. <a href="#RSI Salient Object Detection"> RSI Salient Object Detection </a>
+2. <a href="#Related Survery"> Related Survery </a>
+3. <a href="#RSI-SOD datasets download"> RSI-SOD datasets download </a>
+4. <a href="#Evaluation Metrics"> Evaluation Metrics </a>
 
 
 ------
