@@ -61,7 +61,7 @@
 # RSI-SOD datasets download    <a id="RSI-SOD datasets download" class="anchor" href="RSI-SOD datasets download" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 * [ORSSD dataset](https://pan.baidu.com/s/1k44UlTLCW17AS0VhPyP7JA): 600 training, 200 testing.
 * [EORSSD dataset](https://github.com/rmcong/EORSSD-dataset): 1400 training, 600 testing. 
-* [ORSI-4199 dataset](https://pan.baidu.com/s/1ZWVSzFpRjN4BK-c9hL6knQ)(Code: fy06): 2000 training, 2199 testing.
+* [ORSI-4199 dataset](https://pan.baidu.com/s/1ZWVSzFpRjN4BK-c9hL6knQ) (Code: fy06): 2000 training, 2199 testing.
 
 # Evaluation Metrics  <a id="Evaluation Metrics" class="anchor" href="Evaluation Metrics" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 * Saliency maps [evaluation tool1](http://dpfan.net/d3netbenchmark/) or [evaluation tool2](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox), including S-measure, E-measure, F-measure, MAE scores and PR curves.       
