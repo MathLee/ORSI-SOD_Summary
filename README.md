@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images: A Survey           
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **RSI SOD**: Add three IEEE TGRS papers                
+ :heavy_exclamation_mark:  **ORSI SOD**: Add three IEEE TGRS papers                
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -11,16 +11,16 @@
 
 ## Content:
 
-1. <a href="#RSI Salient Object Detection"> RSI Salient Object Detection </a>
+1. <a href="#ORSI Salient Object Detection"> ORSI Salient Object Detection </a>
 2. <a href="#Related Survery"> Related Survery </a>
-3. <a href="#RSI-SOD datasets download"> RSI-SOD datasets download </a>
+3. <a href="#ORSI-SOD datasets download"> ORSI-SOD datasets download </a>
 4. <a href="#Evaluation Metrics"> Evaluation Metrics </a>
 
 
 ------
 
   
-# RSI Salient Object Detection <a id="RSI Salient Object Detection" class="anchor" href="2D RGB Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
+# ORSI Salient Object Detection <a id="ORSI Salient Object Detection" class="anchor" href="ORSI Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 
@@ -61,7 +61,7 @@
 * [RGB-T SOD Survery](https://github.com/lz118/RGBT-Salient-Object-Detection)
 * [COD Survery](http://dpfan.net/Camouflage/)
 
-# RSI-SOD datasets download    <a id="RSI-SOD datasets download" class="anchor" href="RSI-SOD datasets download" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# ORSI-SOD datasets download    <a id="ORSI-SOD datasets download" class="anchor" href="ORSI-SOD datasets download" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 * [ORSSD dataset](https://pan.baidu.com/s/1k44UlTLCW17AS0VhPyP7JA): 600 training, 200 testing.
 * [EORSSD dataset](https://github.com/rmcong/EORSSD-dataset): 1400 training, 600 testing. 
 * [ORSI-4199 dataset](https://pan.baidu.com/s/1ZWVSzFpRjN4BK-c9hL6knQ) (Code: fy06): 2000 training, 2199 testing.
