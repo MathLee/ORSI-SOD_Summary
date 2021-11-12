@@ -1,4 +1,4 @@
-# Salient Object Detection in Optical Remote Sensing Images: A Survey           
+# Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **ORSI SOD**: Add three IEEE TGRS papers                
