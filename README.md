@@ -112,8 +112,6 @@
 * ors-4199 dataset [download](https://github.com/jiwei0921/MoLF).
 
 # Evaluation Metrics  <a id="Evaluation Metrics" class="anchor" href="Evaluation Metrics" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
-* Saliency maps evaluation.      
-This link near all evaluation metrics for salient object detection including E-measure, S-measure, F-measure, MAE scores and PR curves or bar metrics.
-You can found in [here](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).        
+* Saliency maps [evaluation tool1](http://dpfan.net/d3netbenchmark/) or [evaluation tool2](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox), including S-measure, E-measure, F-measure, MAE scores and PR curves.       
 
     
