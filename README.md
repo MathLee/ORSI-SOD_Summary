@@ -55,7 +55,7 @@
 
 # Related Survery    <a id="Related Survery" class="anchor" href="Related Survery" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 * [RGB SOD Survery](https://github.com/wenguanwang/SODsurvey)
-* [Video SOD Survery](https://github.com/wenguanwang/DHF1K)
+* [Video Saliency Survery](https://github.com/wenguanwang/DHF1K)
 * [RGB-D SOD Survery<sup>1<sup>](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
 * [RGB-D SOD Survery<sup>2<sup>](https://github.com/taozh2017/RGBD-SODsurvey)
 * [RGB-T SOD Survery](https://github.com/lz118/RGBT-Salient-Object-Detection)
