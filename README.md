@@ -54,10 +54,10 @@
 03 | **IJRS** | Saliency Detection based on Self-adaptive Multiple Feature Fusion for Remote Sensing Images | [Paper](https://www.tandfonline.com/doi/abs/10.1080/01431161.2019.1608384?journalCode=tres20)/Code
 
 # Related Survery    <a id="Related Survery" class="anchor" href="Related Survery" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
-* [RGB SOD Survery1](https://github.com/wenguanwang/SODsurvey)
-* [Video SOD Survery1](https://github.com/wenguanwang/DHF1K)
-* [RGB-D SOD Survery1](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
-* [RGB-D SOD Survery2](https://github.com/taozh2017/RGBD-SODsurvey)
+* [RGB SOD Survery](https://github.com/wenguanwang/SODsurvey)
+* [Video SOD Survery](https://github.com/wenguanwang/DHF1K)
+* [RGB-D SOD Survery^1](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
+* [RGB-D SOD Survery^2](https://github.com/taozh2017/RGBD-SODsurvey)
 * [RGB-T SOD Survery](https://github.com/lz118/RGBT-Salient-Object-Detection)
 * [COD Survery](http://dpfan.net/Camouflage/)
 
