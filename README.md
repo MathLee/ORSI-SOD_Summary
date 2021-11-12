@@ -49,7 +49,7 @@
 ## Traditional methods
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **IEEE GRSL** | Airport Extraction via Complementary Saliency Analysis and Saliency-Oriented Active Contour Model | [Paper](https://ieeexplore.ieee.org/document/8353414)/[ode
+01 | **IEEE GRSL** | Airport Extraction via Complementary Saliency Analysis and Saliency-Oriented Active Contour Model | [Paper](https://ieeexplore.ieee.org/document/8353414)/Code
 02 | **Remote Sensing** | Unsupervised Saliency Model with Color Markov Chain for Oil Tank Detection | [Paper](https://www.mdpi.com/2072-4292/11/9/1089)/Code
 03 | **IJRS** | Saliency Detection based on Self-adaptive Multiple Feature Fusion for Remote Sensing Images | [Paper](https://www.tandfonline.com/doi/abs/10.1080/01431161.2019.1608384?journalCode=tres20)/Code
 
