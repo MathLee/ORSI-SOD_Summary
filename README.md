@@ -57,7 +57,7 @@
 * [Comprehensive Survery of SOD](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
 * [RGB SOD Survery](https://github.com/wenguanwang/SODsurvey)
 * [Video Saliency Survery](https://github.com/wenguanwang/DHF1K)
-* [RGB-D SOD Survery<sup>2<sup>](https://github.com/taozh2017/RGBD-SODsurvey)
+* [RGB-D SOD Survery](https://github.com/taozh2017/RGBD-SODsurvey)
 * [RGB-T SOD Survery](https://github.com/lz118/RGBT-Salient-Object-Detection)
 * [COD Survery](http://dpfan.net/Camouflage/)
 
