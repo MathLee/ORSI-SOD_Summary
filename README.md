@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add three IEEE TGRS papers                
+ :heavy_exclamation_mark:  **ORSI SOD**: Add three IEEE TGRS papers and one IGARSS paper         
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
