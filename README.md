@@ -32,6 +32,7 @@
 :triangular_flag_on_post: 05 | **IEEE TGRS** | Edge-Aware Multiscale Feature Integration Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9474908)/[Code](https://github.com/Kunye-Shen/EMFINet)
 :triangular_flag_on_post: 06 | **IEEE TGRS** | ORSI Salient Object Detection via Multiscale Joint Region and Boundary Model | [Paper](https://ieeexplore.ieee.org/document/9511336)/[Code](https://github.com/wchao1213/ORSI-SOD)
 :triangular_flag_on_post: 07 | **IEEE TGRS** | RRNet: Relational Reasoning Network with Parallel Multi-scale Attention for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9592773)/[Code](https://rmcong.github.io/proj_RRNet.html)
+:triangular_flag_on_post: 08 | **IGARSS** | Multi-Scale Feedback Convolutional Sparse Coding Network for Saliency Detection in Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9555108)/Code
 
 
 ## 2020
