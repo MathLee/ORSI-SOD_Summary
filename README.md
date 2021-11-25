@@ -33,7 +33,7 @@
 :triangular_flag_on_post: 06 | **IEEE TGRS** | ORSI Salient Object Detection via Multiscale Joint Region and Boundary Model | [Paper](https://ieeexplore.ieee.org/document/9511336)/[Code](https://github.com/wchao1213/ORSI-SOD)
 :triangular_flag_on_post: 07 | **IEEE TGRS** | RRNet: Relational Reasoning Network with Parallel Multi-scale Attention for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9592773)/[Code](https://rmcong.github.io/proj_RRNet.html)
 :triangular_flag_on_post: 08 | **IGARSS** | Multi-Scale Feedback Convolutional Sparse Coding Network for Saliency Detection in Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9555108)/Code
-:triangular_flag_on_post: 09 | **IGARSS** | Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images | Paper/[Code](https://github.com/MathLee/MCCNet)
+:triangular_flag_on_post: 09 | **IEEE TGRS** | Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images | Paper/[Code](https://github.com/MathLee/MCCNet)
 
 
 ## 2020
