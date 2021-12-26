@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add four IEEE TGRS papers and one IGARSS paper         
+ :heavy_exclamation_mark:  **ORSI SOD**: Add four IEEE TGRS papers, one IGARSS paper, and one traditional method.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -54,7 +54,7 @@
 01 | **IEEE GRSL** | Airport Extraction via Complementary Saliency Analysis and Saliency-Oriented Active Contour Model | [Paper](https://ieeexplore.ieee.org/document/8353414)/Code
 02 | **Remote Sensing** | Unsupervised Saliency Model with Color Markov Chain for Oil Tank Detection | [Paper](https://www.mdpi.com/2072-4292/11/9/1089)/Code
 03 | **IJRS** | Saliency Detection based on Self-adaptive Multiple Feature Fusion for Remote Sensing Images | [Paper](https://www.tandfonline.com/doi/abs/10.1080/01431161.2019.1608384?journalCode=tres20)/Code
-04 | **PR** | Contrast-weighted Dictionary Learning based Saliency Detection for VHR Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320320305604)/Code
+:triangular_flag_on_post: 04 | **PR** | Contrast-weighted Dictionary Learning based Saliency Detection for VHR Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320320305604)/Code
 
 # Related Survery    <a id="Related Survery" class="anchor" href="Related Survery" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 * [Comprehensive Survery of SOD](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
