@@ -25,7 +25,7 @@
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **IEEE TGRS** | Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation | Paper/Code  
+:triangular_flag_on_post: 01 | **IEEE TGRS** | Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation | Paper/[Code](https://github.com/MathLee/CorrNet)  
 
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 
