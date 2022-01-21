@@ -44,7 +44,8 @@
 ## 2020
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **Neurocomputing** | A Parallel Down-up Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231220313692)/Code  
+01 | **Neurocomputing** | A Parallel Down-up Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231220313692)/Code 
+02 | **ICCWAMTIP** | Deep Convolutional Sparse Coding Network for Salient Object Detection in VHR Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/9317464)/Code  
 
 
 ## 2019
