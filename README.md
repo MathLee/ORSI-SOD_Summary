@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one IEEE TGRS paper for lightweight ORSI-SOD.   
+ :heavy_exclamation_mark:  **ORSI SOD**: Add one IEEE TGRS paper.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -26,6 +26,7 @@
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **IEEE TGRS** | Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation | [Paper](https://ieeexplore.ieee.org/document/9690514)/[Code](https://github.com/MathLee/CorrNet)  
+:triangular_flag_on_post: 02 | **IEEE TGRS** | Global Perception Network for Salient Object Detection in Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9687549)/[Code](https://github.com/liuyu1002/GPnet)  
 
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 
