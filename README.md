@@ -56,7 +56,7 @@
 ## 2019
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **IEEE TGRS** | Nested Network with Two-Stream Pyramid for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/8793227)/[Code](https://li-chongyi.github.io/proj_optical_saliency.html)
+01 | **IEEE TGRS** | Nested Network with Two-Stream Pyramid for Salient Object Detection in Optical Remote Sensing Images `ORSSD` | [Paper](https://ieeexplore.ieee.org/document/8793227)/[Code](https://li-chongyi.github.io/proj_optical_saliency.html)
 
 
 ## Traditional methods
