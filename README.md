@@ -36,11 +36,11 @@
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **IEEE TGRS** | Salient Object Detection Based on Progressively Supervised Learning for Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9316877)/Code  
-02 | **IEEE TIP** | Dense Attention Fluid Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9292434)/[Code](https://github.com/rmcong/DAFNet_TIP20)
+02 | **IEEE TIP** | Dense Attention Fluid Network for Salient Object Detection in Optical Remote Sensing Images `EORSSD` | [Paper](https://ieeexplore.ieee.org/document/9292434)/[Code](https://github.com/rmcong/DAFNet_TIP20)
 03 | **Remote Sensing** | Semantic-Guided Attention Refinement Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/13/11/2163/htm)/[Code](https://github.com/ZhouHuang23/SARNet)
 04 | **PRCV** | GGRNet: Global Graph Reasoning Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-88007-1_48)/Code
 05 | **IEEE TGRS** | Edge-Aware Multiscale Feature Integration Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9474908)/[Code](https://github.com/Kunye-Shen/EMFINet)
-06 | **IEEE TGRS** | ORSI Salient Object Detection via Multiscale Joint Region and Boundary Model | [Paper](https://ieeexplore.ieee.org/document/9511336)/[Code](https://github.com/wchao1213/ORSI-SOD)
+06 | **IEEE TGRS** | ORSI Salient Object Detection via Multiscale Joint Region and Boundary Model `ORSI-4199` | [Paper](https://ieeexplore.ieee.org/document/9511336)/[Code](https://github.com/wchao1213/ORSI-SOD)
 07 | **IEEE TGRS** | RRNet: Relational Reasoning Network with Parallel Multi-scale Attention for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9592773)/[Code](https://rmcong.github.io/proj_RRNet.html)
 08 | **IGARSS** | Multi-Scale Feedback Convolutional Sparse Coding Network for Saliency Detection in Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9555108)/Code
 09 | **IEEE TGRS** | Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9631225)/[Code](https://github.com/MathLee/MCCNet)
