@@ -30,7 +30,7 @@
 :triangular_flag_on_post: 03 | **IEEE GRSL** | Fully Squeezed Multi-Scale Inference Network for Fast and Accurate Saliency Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9739705)/[Code](https://github.com/Kunye-Shen/FSMINet)
 :triangular_flag_on_post: 04 | **IEEE TCYB** | Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9756652)/[Code](https://github.com/MathLee/ACCoNet)
 :triangular_flag_on_post: 05 | **IEEE TCYB** | Edge-guided Recurrent Positioning Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9756846)/[Code](https://github.com/Kunye-Shen/ERPNet)
-:triangular_flag_on_post: 06 | **IEEE ICPR** | A Lightweight Multi-Scale Context Network for Salient Object Detection in Optical Remote Sensing Images | [Paper]([https://ieeexplore.ieee.org/document/9756846](https://arxiv.org/pdf/2205.08959.pdf))/[Code](https://github.com/NuaaYH/MSCNet)
+:triangular_flag_on_post: 06 | **IEEE ICPR** | A Lightweight Multi-Scale Context Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/pdf/2205.08959.pdf)/[Code](https://github.com/NuaaYH/MSCNet)
 
 
 ## 2021       
