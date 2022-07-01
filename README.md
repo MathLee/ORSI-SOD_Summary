@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one IEEE TGRS paper, one IEEE GRSL paper, two IEEE TCYB papers, and one IEEE ICPR paper.   
+ :heavy_exclamation_mark:  **ORSI SOD**: Add one IEEE TGRS paper.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -25,12 +25,14 @@
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **IEEE TGRS** | Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation | [Paper](https://ieeexplore.ieee.org/document/9690514)/[Code](https://github.com/MathLee/CorrNet)  
-:triangular_flag_on_post: 02 | **IEEE TGRS** | Global Perception Network for Salient Object Detection in Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9687549)/[Code](https://github.com/liuyu1002/GPnet)  
-:triangular_flag_on_post: 03 | **IEEE GRSL** | Fully Squeezed Multi-Scale Inference Network for Fast and Accurate Saliency Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9739705)/[Code](https://github.com/Kunye-Shen/FSMINet)
-:triangular_flag_on_post: 04 | **IEEE TCYB** | Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9756652)/[Code](https://github.com/MathLee/ACCoNet)
-:triangular_flag_on_post: 05 | **IEEE TCYB** | Edge-guided Recurrent Positioning Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9756846)/[Code](https://github.com/Kunye-Shen/ERPNet)
-:triangular_flag_on_post: 06 | **IEEE ICPR** | A Lightweight Multi-Scale Context Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/pdf/2205.08959.pdf)/[Code](https://github.com/NuaaYH/MSCNet)
+01 | **IEEE TGRS** | Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation | [Paper](https://ieeexplore.ieee.org/document/9690514)/[Code](https://github.com/MathLee/CorrNet)  
+02 | **IEEE TGRS** | Global Perception Network for Salient Object Detection in Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9687549)/[Code](https://github.com/liuyu1002/GPnet)  
+03 | **IEEE GRSL** | Fully Squeezed Multi-Scale Inference Network for Fast and Accurate Saliency Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9739705)/[Code](https://github.com/Kunye-Shen/FSMINet)
+04 | **IEEE TCYB** | Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9756652)/[Code](https://github.com/MathLee/ACCoNet)
+05 | **IEEE TCYB** | Edge-guided Recurrent Positioning Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9756846)/[Code](https://github.com/Kunye-Shen/ERPNet)
+06 | **IEEE ICPR** | A Lightweight Multi-Scale Context Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/pdf/2205.08959.pdf)/[Code](https://github.com/NuaaYH/MSCNet)
+:triangular_flag_on_post: 07 | **IEEE TGRS** | Hybrid Feature Aligned Network for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://ieeexplore.ieee.org/document/9791375)/[Code](https://github.com/lyf0801/HFANet)  
+
 
 
 ## 2021       
