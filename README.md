@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one IEEE TGRS paper, and one ICANN paper.   
+ :heavy_exclamation_mark:  **ORSI SOD**: Add one ISPRS JP&RS paper.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -31,8 +31,9 @@
 04 | **IEEE TCYB** | Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9756652)/[Code](https://github.com/MathLee/ACCoNet)
 05 | **IEEE TCYB** | Edge-guided Recurrent Positioning Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9756846)/[Code](https://github.com/Kunye-Shen/ERPNet)
 06 | **IEEE ICPR** | A Lightweight Multi-Scale Context Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/pdf/2205.08959.pdf)/[Code](https://github.com/NuaaYH/MSCNet)
-:triangular_flag_on_post: 07 | **IEEE TGRS** | Hybrid Feature Aligned Network for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://ieeexplore.ieee.org/document/9791375)/[Code](https://github.com/lyf0801/HFANet)
-:triangular_flag_on_post: 08 | **ICANN** | Attention Guided Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/abs/2207.01755)/[Code](https://github.com/NuaaYH/AGNet)  
+07 | **IEEE TGRS** | Hybrid Feature Aligned Network for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://ieeexplore.ieee.org/document/9791375)/[Code](https://github.com/lyf0801/HFANet)
+08 | **ICANN** | Attention Guided Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/abs/2207.01755)/[Code](https://github.com/NuaaYH/AGNet)  
+:triangular_flag_on_post: 09 | **ISPRS JP&RS** | Scribble-based Boundary-aware Network for Weakly Supervised Salient Object in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001927)/[Code](https://github.com/ZhouHuang23/SBA-Net)  
 
 
 
