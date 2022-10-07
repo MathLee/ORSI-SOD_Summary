@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one ISPRS JP&RS paper.   
+ :heavy_exclamation_mark:  **ORSI SOD**: Add one AI paper.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -34,6 +34,7 @@
 07 | **IEEE TGRS** | Hybrid Feature Aligned Network for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://ieeexplore.ieee.org/document/9791375)/[Code](https://github.com/lyf0801/HFANet)
 08 | **ICANN** | Attention Guided Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/abs/2207.01755)/[Code](https://github.com/NuaaYH/AGNet)  
 :triangular_flag_on_post: 09 | **ISPRS JP&RS** | Scribble-based Boundary-aware Network for Weakly Supervised Salient Object in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001927)/[Code](https://github.com/ZhouHuang23/SBA-Net)  
+:triangular_flag_on_post: 10 | **Applied Intelligence** | Scribble-attention Hierarchical Network for Weakly Supervised Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s10489-022-04014-0)/[Code](https://github.com/Mollylovesky/SH-Net)  
 
 
 
