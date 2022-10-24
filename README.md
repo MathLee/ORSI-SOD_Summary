@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one AI paper.   
+ :heavy_exclamation_mark:  **ORSI SOD**: Add one TGRS paper.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -33,8 +33,9 @@
 06 | **IEEE ICPR** | A Lightweight Multi-Scale Context Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/pdf/2205.08959.pdf)/[Code](https://github.com/NuaaYH/MSCNet)
 07 | **IEEE TGRS** | Hybrid Feature Aligned Network for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://ieeexplore.ieee.org/document/9791375)/[Code](https://github.com/lyf0801/HFANet)
 08 | **ICANN** | Attention Guided Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/abs/2207.01755)/[Code](https://github.com/NuaaYH/AGNet)  
-:triangular_flag_on_post: 09 | **ISPRS JP&RS** | Scribble-based Boundary-aware Network for Weakly Supervised Salient Object in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001927)/[Code](https://github.com/ZhouHuang23/SBA-Net)  
-:triangular_flag_on_post: 10 | **Applied Intelligence** | Scribble-attention Hierarchical Network for Weakly Supervised Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s10489-022-04014-0)/[Code](https://github.com/Mollylovesky/SH-Net)  
+09 | **ISPRS JP&RS** | Scribble-based Boundary-aware Network for Weakly Supervised Salient Object in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001927)/[Code](https://github.com/ZhouHuang23/SBA-Net)  
+10 | **Applied Intelligence** | Scribble-attention Hierarchical Network for Weakly Supervised Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s10489-022-04014-0)/[Code](https://github.com/Mollylovesky/SH-Net)  
+:triangular_flag_on_post: 11 | **IEEE TGRS** | Progressive Attention-Based Feature Recovery With Scribble Supervision for Saliency Detection in Optical Remote Sensing Image | [Paper](https://ieeexplore.ieee.org/document/9899481)/[Code](https://github.com/melonless/PAFR)
 
 
 
