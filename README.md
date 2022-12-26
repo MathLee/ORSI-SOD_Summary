@@ -39,7 +39,7 @@
 :triangular_flag_on_post: 12 | **IET IP** | Two-stage Local Attention Network for Salient Object Detection in Remote Sensing Images | [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ipr2.12677#:~:text=This%20paper%20proposes%20a%20SOD%20method%20for%20RSIs%2C,to%20enhance%20the%20flow%20of%20information%20across%20scales.)/Code
 :triangular_flag_on_post: 13 | **ICFEICT** | Contextual Attention Enhanced Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9951520)/Code
 :triangular_flag_on_post: 14 | **Electronics** | Boundary-Aware Salient Object Detection in Optical Remote-Sensing Images | [Paper](https://www.mdpi.com/2079-9292/11/24/4200)/Code
-
+:triangular_flag_on_post: 15 | **JRS** | Attention-based Pyramid Decoder Network for Salient Object Detection in Remote Sensing Images | [Paper](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-16/issue-4/046507/Attention-based-pyramid-decoder-network-for-salient-object-detection-in/10.1117/1.JRS.16.046507.short?SSO=1)/Code
 
 
 
