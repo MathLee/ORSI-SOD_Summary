@@ -25,7 +25,9 @@
 ## 2023       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **IEEE TGRS** | Lightweight Salient Object Detection in Optical Remote-Sensing Images via Semantic Matching and Edge Alignment | [Paper](https://ieeexplore.ieee.org/document/10015064)/[Code](https://github.com/MathLee/SeaNet) 
+:triangular_flag_on_post: 01 | **IEEE TGRS** | Lightweight Salient Object Detection in Optical Remote-Sensing Images via Semantic Matching and Edge Alignment | [Paper](https://ieeexplore.ieee.org/document/10015064)/[Code](https://github.com/MathLee/SeaNet)
+:triangular_flag_on_post: 02 | **IEEE TGRS** | Adaptive Spatial Tokenization Transformer for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10038723)/Code 
+
 
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
