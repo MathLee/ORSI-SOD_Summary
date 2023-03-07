@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one TGRS paper.   
+ :heavy_exclamation_mark:  **ORSI SOD**: Add one TGRS and one arxiv paper.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -28,6 +28,8 @@
 :triangular_flag_on_post: 01 | **IEEE TGRS** | Lightweight Salient Object Detection in Optical Remote-Sensing Images via Semantic Matching and Edge Alignment | [Paper](https://ieeexplore.ieee.org/document/10015064)/[Code](https://github.com/MathLee/SeaNet)
 :triangular_flag_on_post: 02 | **IEEE TGRS** | Adaptive Spatial Tokenization Transformer for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10038723)/Code
 :triangular_flag_on_post: 03 | **IEEE TGRS** | ORSI Salient Object Detection via Bidimensional Attention and Full-Stage Semantic Guidance | [Paper](https://ieeexplore.ieee.org/document/10041185)/[Code](https://github.com/ZhengJianwei2/BAFS-Net)
+:triangular_flag_on_post: 04 | **arxiv** | Dual Feedback Attention Framework via BoundaryAware Auxiliary and Progressive Semantic Optimization for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://arxiv.org/abs/2303.02867)/[Code](https://github.com/YUHsss/DFA-BASO)
+
 
 
 
