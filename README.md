@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one ISPRS JP&RS and one GRSL paper.   
+ :heavy_exclamation_mark:  **ORSI SOD**: Add one TGRS paper.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -31,6 +31,8 @@
 :triangular_flag_on_post: 04 | **arxiv** | Dual Feedback Attention Framework via BoundaryAware Auxiliary and Progressive Semantic Optimization for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://arxiv.org/abs/2303.02867)/[Code](https://github.com/YUHsss/DFA-BASO)
 :triangular_flag_on_post: 05 | **ISPRS JP&RS** | Global-Local-Global Context-aware Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623000734)/Code
 :triangular_flag_on_post: 06 | **IEEE GRSL** | ORSI Salient Object Detection via Cross-Scale Interaction and Enlarged Receptive Field | [Paper](https://ieeexplore.ieee.org/document/10054466)/Code
+:triangular_flag_on_post: 07 | **IEEE TGRS** | Boundary-Aware Network with Two-Stage Partial Decoders for Salient Object Detection in Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10078913)/[Code](https://github.com/QingpingZheng/RSISOD)
+
 
 
 ## 2022       
