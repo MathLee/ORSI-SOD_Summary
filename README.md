@@ -32,6 +32,7 @@
 :triangular_flag_on_post: 05 | **ISPRS JP&RS** | Global-Local-Global Context-aware Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623000734)/Code
 :triangular_flag_on_post: 06 | **IEEE GRSL** | ORSI Salient Object Detection via Cross-Scale Interaction and Enlarged Receptive Field | [Paper](https://ieeexplore.ieee.org/document/10054466)/Code
 :triangular_flag_on_post: 07 | **IEEE TGRS** | Boundary-Aware Network with Two-Stage Partial Decoders for Salient Object Detection in Remote Sensing Images `RSISOD` | [Paper](https://ieeexplore.ieee.org/document/10078913)/[Code](https://github.com/QingpingZheng/RSISOD)
+:triangular_flag_on_post: 08 | **IEEE TGRS** | Distilling Knowledge from Super Resolution for Efficient Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10102592)/[Code](https://github.com/lyf0801/SRAL)
 
 
 
