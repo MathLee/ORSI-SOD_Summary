@@ -36,7 +36,7 @@
 09 | **The Visual Computer** | Multitask Learning for Image Translation and Salient Object Detection from Multimodal Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s00371-023-02857-3)/Code
 :triangular_flag_on_post: 10 | **Neural Computing and Applications** | Transformer Guidance dDual-stream Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s00521-023-08640-8)/Code
 :triangular_flag_on_post: 11 | **IEEE TGRS** | Adjacent Complementary Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10126112)/Code
-:triangular_flag_on_post: 112 | **IEEE TCSVT** | Edge and Skeleton Guidance Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10122926)/[Code](https://github.com/aoao0206/ESGNet)
+:triangular_flag_on_post: 12 | **IEEE TCSVT** | Edge and Skeleton Guidance Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10122926)/[Code](https://github.com/aoao0206/ESGNet)
 
 
 
