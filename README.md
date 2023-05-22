@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one Neural Computing and Applications paper.   
+ :heavy_exclamation_mark:  **ORSI SOD**: Add one TGRS and one TCSVT paper.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -25,16 +25,18 @@
 ## 2023       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **IEEE TGRS** | Lightweight Salient Object Detection in Optical Remote-Sensing Images via Semantic Matching and Edge Alignment | [Paper](https://ieeexplore.ieee.org/document/10015064)/[Code](https://github.com/MathLee/SeaNet)
-:triangular_flag_on_post: 02 | **IEEE TGRS** | Adaptive Spatial Tokenization Transformer for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10038723)/Code
-:triangular_flag_on_post: 03 | **IEEE TGRS** | ORSI Salient Object Detection via Bidimensional Attention and Full-Stage Semantic Guidance | [Paper](https://ieeexplore.ieee.org/document/10041185)/[Code](https://github.com/ZhengJianwei2/BAFS-Net)
-:triangular_flag_on_post: 04 | **arxiv** | Dual Feedback Attention Framework via Boundary-Aware Auxiliary and Progressive Semantic Optimization for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://arxiv.org/abs/2303.02867)/[Code](https://github.com/YUHsss/DFA-BASO)
-:triangular_flag_on_post: 05 | **ISPRS JP&RS** | Global-Local-Global Context-aware Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623000734)/Code
-:triangular_flag_on_post: 06 | **IEEE GRSL** | ORSI Salient Object Detection via Cross-Scale Interaction and Enlarged Receptive Field | [Paper](https://ieeexplore.ieee.org/document/10054466)/Code
-:triangular_flag_on_post: 07 | **IEEE TGRS** | Boundary-Aware Network with Two-Stage Partial Decoders for Salient Object Detection in Remote Sensing Images `RSISOD` | [Paper](https://ieeexplore.ieee.org/document/10078913)/[Code](https://github.com/QingpingZheng/RSISOD)
-:triangular_flag_on_post: 08 | **IEEE TGRS** | Distilling Knowledge from Super Resolution for Efficient Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10102592)/[Code](https://github.com/lyf0801/SRAL)
-:triangular_flag_on_post: 09 | **The Visual Computer** | Multitask Learning for Image Translation and Salient Object Detection from Multimodal Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s00371-023-02857-3)/Code
+01 | **IEEE TGRS** | Lightweight Salient Object Detection in Optical Remote-Sensing Images via Semantic Matching and Edge Alignment | [Paper](https://ieeexplore.ieee.org/document/10015064)/[Code](https://github.com/MathLee/SeaNet)
+02 | **IEEE TGRS** | Adaptive Spatial Tokenization Transformer for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10038723)/Code
+03 | **IEEE TGRS** | ORSI Salient Object Detection via Bidimensional Attention and Full-Stage Semantic Guidance | [Paper](https://ieeexplore.ieee.org/document/10041185)/[Code](https://github.com/ZhengJianwei2/BAFS-Net)
+04 | **arxiv** | Dual Feedback Attention Framework via Boundary-Aware Auxiliary and Progressive Semantic Optimization for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://arxiv.org/abs/2303.02867)/[Code](https://github.com/YUHsss/DFA-BASO)
+05 | **ISPRS JP&RS** | Global-Local-Global Context-aware Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623000734)/Code
+06 | **IEEE GRSL** | ORSI Salient Object Detection via Cross-Scale Interaction and Enlarged Receptive Field | [Paper](https://ieeexplore.ieee.org/document/10054466)/Code
+07 | **IEEE TGRS** | Boundary-Aware Network with Two-Stage Partial Decoders for Salient Object Detection in Remote Sensing Images `RSISOD` | [Paper](https://ieeexplore.ieee.org/document/10078913)/[Code](https://github.com/QingpingZheng/RSISOD)
+08 | **IEEE TGRS** | Distilling Knowledge from Super Resolution for Efficient Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10102592)/[Code](https://github.com/lyf0801/SRAL)
+09 | **The Visual Computer** | Multitask Learning for Image Translation and Salient Object Detection from Multimodal Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s00371-023-02857-3)/Code
 :triangular_flag_on_post: 10 | **Neural Computing and Applications** | Transformer Guidance dDual-stream Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s00521-023-08640-8)/Code
+:triangular_flag_on_post: 11 | **IEEE TGRS** | Adjacent Complementary Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10126112)/Code
+:triangular_flag_on_post: 112 | **IEEE TCSVT** | Edge and Skeleton Guidance Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10122926)/[Code](https://github.com/aoao0206/ESGNet)
 
 
 
