@@ -37,6 +37,7 @@
 :triangular_flag_on_post: 10 | **Neural Computing and Applications** | Transformer Guidance dDual-stream Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s00521-023-08640-8)/Code
 :triangular_flag_on_post: 11 | **IEEE TGRS** | Adjacent Complementary Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10126112)/Code
 :triangular_flag_on_post: 12 | **IEEE TCSVT** | Edge and Skeleton Guidance Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10122926)/[Code](https://github.com/aoao0206/ESGNet)
+:triangular_flag_on_post: 13 | **IGARSS** | RSSOD-Bench: A Large-scale Benchmark Dataset for Salient Object Detection in Optical Remote Sensing Imagery `RSSOD-Bench`| [Paper](https://arxiv.org/abs/2306.02351)/[Code](https://github.com/EarthNets/Dataset4EO)
 
 
 
@@ -113,8 +114,8 @@
 * [EORSSD dataset](https://github.com/rmcong/EORSSD-dataset): 1400 training, 600 testing. 
 * [ORSI-4199 dataset](https://pan.baidu.com/s/1ZWVSzFpRjN4BK-c9hL6knQ) (Code: fy06): 2000 training, 2199 testing.
 * [RSISOD dataset](https://github.com/QingpingZheng/RSISOD/tree/main/data/RSISOD): 3784 training, 1270 testing.
+* [RSSOD-Bench dataset](https://github.com/EarthNets/Dataset4EO): 3000 training, 600 validation, 2400 testing.
+
 
 # Evaluation Metrics  <a id="Evaluation Metrics" class="anchor" href="Evaluation Metrics" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 * Saliency maps [evaluation tool<sup>1<sup>](https://github.com/MathLee/MatlabEvaluationTools) or [evaluation tool<sup>2<sup>](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox), including S-measure, F-measure, E-measure, MAE scores and PR curves.       
-
-    
