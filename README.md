@@ -40,7 +40,7 @@
 :triangular_flag_on_post: 13 | **IEEE IGARSS** | RSSOD-Bench: A Large-scale Benchmark Dataset for Salient Object Detection in Optical Remote Sensing Imagery `RSSOD-Bench`| [Paper](https://arxiv.org/abs/2306.02351)/[Code](https://github.com/EarthNets/Dataset4EO)
 :triangular_flag_on_post: 14 | **IEEE Sensors Journal** | Multi-scale Feature Aggregation Network for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/10155637)/Code
 :triangular_flag_on_post: 15 | **IEEE JSTARS** | An Important Pick-and-Pass Gated Refinement Network for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/10168229)/Code
-:triangular_flag_on_post: 16 | **Preprint** | Meanet: An Effective and Lightweight Solution for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4442932)/[Code](https://github.com/LiangBoCheng/MEANet)
+:triangular_flag_on_post: 16 | **Preprint** | MEANet: An Effective and Lightweight Solution for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4442932)/[Code](https://github.com/LiangBoCheng/MEANet)
 
 
 
