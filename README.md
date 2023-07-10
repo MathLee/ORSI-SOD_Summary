@@ -104,6 +104,8 @@
 03 | **IJRS** | Saliency Detection based on Self-adaptive Multiple Feature Fusion for Remote Sensing Images | [Paper](https://www.tandfonline.com/doi/abs/10.1080/01431161.2019.1608384?journalCode=tres20)/Code
 04 | **PR** | Contrast-weighted Dictionary Learning based Saliency Detection for VHR Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320320305604)/Code
 :triangular_flag_on_post: 05 | **IEEE GRSL** | Joint Space–Frequency for Saliency Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/9911624)/Code
+:triangular_flag_on_post: 06 | **IEEE JSTARS** | Visual Saliency Detection in High-Resolution Remote Sensing Images Using Object-Oriented Random Walk Model | [Paper](https://ieeexplore.ieee.org/document/9785897)/Code
+
 
 
 
