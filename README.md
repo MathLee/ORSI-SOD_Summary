@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one IEEE JSTARS and one preprint paper.   
+ :heavy_exclamation_mark:  **ORSI SOD**: Add one IEEE TGRS paper.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -34,13 +34,16 @@
 07 | **IEEE TGRS** | Boundary-Aware Network with Two-Stage Partial Decoders for Salient Object Detection in Remote Sensing Images `RSISOD` | [Paper](https://ieeexplore.ieee.org/document/10078913)/[Code](https://github.com/QingpingZheng/RSISOD)
 08 | **IEEE TGRS** | Distilling Knowledge from Super Resolution for Efficient Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10102592)/[Code](https://github.com/lyf0801/SRAL)
 09 | **The Visual Computer** | Multitask Learning for Image Translation and Salient Object Detection from Multimodal Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s00371-023-02857-3)/Code
-:triangular_flag_on_post: 10 | **Neural Computing and Applications** | Transformer Guidance dDual-stream Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s00521-023-08640-8)/Code
-:triangular_flag_on_post: 11 | **IEEE TGRS** | Adjacent Complementary Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10126112)/Code
-:triangular_flag_on_post: 12 | **IEEE TCSVT** | Edge and Skeleton Guidance Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10122926)/[Code](https://github.com/aoao0206/ESGNet)
-:triangular_flag_on_post: 13 | **IEEE IGARSS** | RSSOD-Bench: A Large-scale Benchmark Dataset for Salient Object Detection in Optical Remote Sensing Imagery `RSSOD-Bench`| [Paper](https://arxiv.org/abs/2306.02351)/[Code](https://github.com/EarthNets/Dataset4EO)
-:triangular_flag_on_post: 14 | **IEEE Sensors Journal** | Multi-scale Feature Aggregation Network for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/10155637)/Code
-:triangular_flag_on_post: 15 | **IEEE JSTARS** | An Important Pick-and-Pass Gated Refinement Network for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/10168229)/Code
-:triangular_flag_on_post: 16 | **Preprint** | MEANet: An Effective and Lightweight Solution for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4442932)/[Code](https://github.com/LiangBoCheng/MEANet)
+10 | **Neural Computing and Applications** | Transformer Guidance dDual-stream Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s00521-023-08640-8)/Code
+11 | **IEEE TGRS** | Adjacent Complementary Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10126112)/Code
+12 | **IEEE TCSVT** | Edge and Skeleton Guidance Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10122926)/[Code](https://github.com/aoao0206/ESGNet)
+13 | **IEEE IGARSS** | RSSOD-Bench: A Large-scale Benchmark Dataset for Salient Object Detection in Optical Remote Sensing Imagery `RSSOD-Bench`| [Paper](https://arxiv.org/abs/2306.02351)/[Code](https://github.com/EarthNets/Dataset4EO)
+14 | **IEEE Sensors Journal** | Multi-scale Feature Aggregation Network for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/10155637)/Code
+15 | **IEEE JSTARS** | An Important Pick-and-Pass Gated Refinement Network for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/10168229)/Code
+16 | **Preprint** | MEANet: An Effective and Lightweight Solution for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4442932)/[Code](https://github.com/LiangBoCheng/MEANet)
+:triangular_flag_on_post: 17 | **IEEE TGRS** | Progressive Context-aware Dynamic Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10184324)/Code
+
+
 
 
 
