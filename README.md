@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one IEEE TGRS paper.   
+ :heavy_exclamation_mark:  **ORSI SOD**: Add one Neurocomputing paper.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -12,7 +12,7 @@
 ## Content:
 
 1. <a href="#ORSI Salient Object Detection"> ORSI Salient Object Detection </a>
-2. <a href="#Related Survery"> Related Survery </a>
+2. <a href="#Related Survey"> Related Survery </a>
 3. <a href="#ORSI-SOD datasets download"> ORSI-SOD datasets download </a>
 4. <a href="#Evaluation Metrics"> Evaluation Metrics </a>
 
@@ -42,6 +42,8 @@
 15 | **IEEE JSTARS** | An Important Pick-and-Pass Gated Refinement Network for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/10168229)/Code
 16 | **Preprint** | MEANet: An Effective and Lightweight Solution for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4442932)/[Code](https://github.com/LiangBoCheng/MEANet)
 :triangular_flag_on_post: 17 | **IEEE TGRS** | Progressive Context-aware Dynamic Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10184324)/Code
+:triangular_flag_on_post: 18 | **Neurocomputing** | Aggregating Transformers and CNNs for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223006835?via%3Dihub)/Code
+
 
 
 
