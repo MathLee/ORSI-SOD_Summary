@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one Sensors paper.   
+ :heavy_exclamation_mark:  **ORSI SOD**: Add one IEEE JSTARS paper.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -45,6 +45,8 @@
 :triangular_flag_on_post: 18 | **Neurocomputing** | Aggregating Transformers and CNNs for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223006835?via%3Dihub)/Code
 :triangular_flag_on_post: 19 | **Sensors** | Alignment Integration Network for Salient Object Detection and Its Application for Optical Remote Sensing Images | [Paper](https://www.mdpi.com/1424-8220/23/14/6562)/Code
 :triangular_flag_on_post: 20 | **arxiv** | Defense against Adversarial Cloud Attack on Remote Sensing Salient Object Detection | [Paper](https://arxiv.org/abs/2306.17431)/Code
+:triangular_flag_on_post: 21 | **IEEE JSTARS** | Semantic-Edge Interactive Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10192474)/[Code](https://github.com/LiangBoCheng/SEINet)
+
 
 
 
