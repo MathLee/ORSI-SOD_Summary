@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one IEEE TGRS paper.   
+ :heavy_exclamation_mark:  **ORSI SOD**: Add one IEEE TIP paper.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -50,6 +50,8 @@
 :triangular_flag_on_post: 23 | **IEEE GRSL** | Uncertainty-Aware Graph Reasoning with Global Collaborative Learning for Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10195976)/[Code](https://github.com/lyf0801/UG2L)
 :triangular_flag_on_post: 24 | **IEEE TGRS** | Adaptive Edge-aware Semantic Interaction Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10198281)/[Code](https://github.com/xumingzhu989/AESINet-TGRS)
 :triangular_flag_on_post: 25 | **IEEE TGRS** | CRNet: Channel-enhanced Remodeling-based Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10217013)/[Code](https://github.com/hilitteq/CRNet)
+:triangular_flag_on_post: 26 | **IEEE TIP** | Salient Object Detection in Optical Remote Sensing Images Driven by Transformer | Paper/[Code](https://github.com/MathLee/GeleNet)
+
 
 
 
