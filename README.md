@@ -40,7 +40,7 @@
 13 | **IEEE IGARSS** | RSSOD-Bench: A Large-scale Benchmark Dataset for Salient Object Detection in Optical Remote Sensing Imagery `RSSOD-Bench`| [Paper](https://arxiv.org/abs/2306.02351)/[Code](https://github.com/EarthNets/Dataset4EO)
 14 | **IEEE Sensors Journal** | Multi-scale Feature Aggregation Network for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/10155637)/Code
 15 | **IEEE JSTARS** | An Important Pick-and-Pass Gated Refinement Network for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/10168229)/Code
-16 | **Preprint** | MEANet: An Effective and Lightweight Solution for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4442932)/[Code](https://github.com/LiangBoCheng/MEANet)
+16 | **Expert Systems with Applications** | MEANet: An Effective and Lightweight Solution for Salient Object Detection in Optical Remote Sensing Images| [Paper](https://www.sciencedirect.com/science/article/pii/S0957417423022807)/[Code](https://github.com/LiangBoCheng/MEANet)
 17 | **IEEE TGRS** | Progressive Context-aware Dynamic Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10184324)/Code
 18 | **Neurocomputing** | Aggregating Transformers and CNNs for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223006835?via%3Dihub)/Code
 19 | **Sensors** | Alignment Integration Network for Salient Object Detection and Its Application for Optical Remote Sensing Images | [Paper](https://www.mdpi.com/1424-8220/23/14/6562)/Code
