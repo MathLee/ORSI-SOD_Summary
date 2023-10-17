@@ -52,6 +52,9 @@
 :triangular_flag_on_post: 25 | **IEEE TGRS** | CRNet: Channel-enhanced Remodeling-based Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10217013)/[Code](https://github.com/hilitteq/CRNet)
 :triangular_flag_on_post: 26 | **ICANN** | X-shape Feature Expansion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-44195-0_21)/Code
 :triangular_flag_on_post: 27 | **IEEE TIP** | Salient Object Detection in Optical Remote Sensing Images Driven by Transformer | [Paper](https://ieeexplore.ieee.org/document/10254506)/[Code](https://github.com/MathLee/GeleNet)
+:triangular_flag_on_post: 28 | **Remote Sensing** | TCM-Net: Mixed Global–Local Learning for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/15/20/4977)/Code
+
+
 
 
 
