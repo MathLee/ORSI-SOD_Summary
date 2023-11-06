@@ -53,6 +53,8 @@
 :triangular_flag_on_post: 26 | **ICANN** | X-shape Feature Expansion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-44195-0_21)/Code
 :triangular_flag_on_post: 27 | **IEEE TIP** | Salient Object Detection in Optical Remote Sensing Images Driven by Transformer | [Paper](https://ieeexplore.ieee.org/document/10254506)/[Code](https://github.com/MathLee/GeleNet)
 :triangular_flag_on_post: 28 | **Remote Sensing** | TCM-Net: Mixed Global–Local Learning for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/15/20/4977)/Code
+:triangular_flag_on_post: 29 | **International Journal of Remote Sensing** | Bidirectional Mutual Guidance Transformer for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.tandfonline.com/doi/full/10.1080/01431161.2023.2229494)/[Code](https://github.com/hkkevinhf/BMGT)
+
 
 
 
