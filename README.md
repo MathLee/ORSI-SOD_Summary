@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one IEEE TIP paper.   
+ :heavy_exclamation_mark:  **ORSI SOD**: Add one IEEE TCAS-II paper.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -44,23 +44,18 @@
 17 | **IEEE TGRS** | Progressive Context-aware Dynamic Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10184324)/Code
 18 | **Neurocomputing** | Aggregating Transformers and CNNs for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223006835?via%3Dihub)/Code
 19 | **Sensors** | Alignment Integration Network for Salient Object Detection and Its Application for Optical Remote Sensing Images | [Paper](https://www.mdpi.com/1424-8220/23/14/6562)/Code
-:triangular_flag_on_post: 20 | **arxiv** | Defense against Adversarial Cloud Attack on Remote Sensing Salient Object Detection | [Paper](https://arxiv.org/abs/2306.17431)/Code
-:triangular_flag_on_post: 21 | **IEEE JSTARS** | Semantic-Edge Interactive Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10192474)/[Code](https://github.com/LiangBoCheng/SEINet)
-:triangular_flag_on_post: 22 | **IEEE TGRS** | Transcending Pixels: Boosting Saliency Detection via Scene Understanding from Aerial Imagery | [Paper](https://ieeexplore.ieee.org/document/10193847)/[Code](https://github.com/lyf0801/SDNet)
-:triangular_flag_on_post: 23 | **IEEE GRSL** | Uncertainty-Aware Graph Reasoning with Global Collaborative Learning for Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10195976)/[Code](https://github.com/lyf0801/UG2L)
-:triangular_flag_on_post: 24 | **IEEE TGRS** | Adaptive Edge-aware Semantic Interaction Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10198281)/[Code](https://github.com/xumingzhu989/AESINet-TGRS)
-:triangular_flag_on_post: 25 | **IEEE TGRS** | CRNet: Channel-enhanced Remodeling-based Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10217013)/[Code](https://github.com/hilitteq/CRNet)
-:triangular_flag_on_post: 26 | **ICANN** | X-shape Feature Expansion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-44195-0_21)/Code
+20 | **arxiv** | Defense against Adversarial Cloud Attack on Remote Sensing Salient Object Detection | [Paper](https://arxiv.org/abs/2306.17431)/Code
+21 | **IEEE JSTARS** | Semantic-Edge Interactive Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10192474)/[Code](https://github.com/LiangBoCheng/SEINet)
+22 | **IEEE TGRS** | Transcending Pixels: Boosting Saliency Detection via Scene Understanding from Aerial Imagery | [Paper](https://ieeexplore.ieee.org/document/10193847)/[Code](https://github.com/lyf0801/SDNet)
+23 | **IEEE GRSL** | Uncertainty-Aware Graph Reasoning with Global Collaborative Learning for Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10195976)/[Code](https://github.com/lyf0801/UG2L)
+24 | **IEEE TGRS** | Adaptive Edge-aware Semantic Interaction Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10198281)/[Code](https://github.com/xumingzhu989/AESINet-TGRS)
+25 | **IEEE TGRS** | CRNet: Channel-enhanced Remodeling-based Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10217013)/[Code](https://github.com/hilitteq/CRNet)
+26 | **ICANN** | X-shape Feature Expansion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-44195-0_21)/Code
 :triangular_flag_on_post: 27 | **IEEE TIP** | Salient Object Detection in Optical Remote Sensing Images Driven by Transformer | [Paper](https://ieeexplore.ieee.org/document/10254506)/[Code](https://github.com/MathLee/GeleNet)
 :triangular_flag_on_post: 28 | **Remote Sensing** | TCM-Net: Mixed Global–Local Learning for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/15/20/4977)/Code
 :triangular_flag_on_post: 29 | **International Journal of Remote Sensing** | Bidirectional Mutual Guidance Transformer for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.tandfonline.com/doi/full/10.1080/01431161.2023.2229494)/[Code](https://github.com/hkkevinhf/BMGT)
 :triangular_flag_on_post: 30 | **IET IP** | CSFFNet: Lightweight Cross-Scale Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ipr2.12972)/Code
-
-
-
-
-
-
+:triangular_flag_on_post: 31 | **IEEE TCAS-II** | Texture-Semantic Collaboration Network for ORSI Salient Object Detection | Paper/[Code](https://github.com/MathLee/TSCNet)
 
 
 
