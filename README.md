@@ -55,7 +55,7 @@
 :triangular_flag_on_post: 28 | **Remote Sensing** | TCM-Net: Mixed Global–Local Learning for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/15/20/4977)/Code
 :triangular_flag_on_post: 29 | **International Journal of Remote Sensing** | Bidirectional Mutual Guidance Transformer for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.tandfonline.com/doi/full/10.1080/01431161.2023.2229494)/[Code](https://github.com/hkkevinhf/BMGT)
 :triangular_flag_on_post: 30 | **IET IP** | CSFFNet: Lightweight Cross-Scale Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ipr2.12972)/Code
-:triangular_flag_on_post: 31 | **IEEE TCAS-II** | Texture-Semantic Collaboration Network for ORSI Salient Object Detection | Paper/[Code](https://github.com/MathLee/TSCNet)
+:triangular_flag_on_post: 31 | **IEEE TCAS-II** | Texture-Semantic Collaboration Network for ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10319772)/[Code](https://github.com/MathLee/TSCNet)
 
 
 
