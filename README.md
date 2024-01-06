@@ -22,6 +22,11 @@
   
 # ORSI Salient Object Detection <a id="ORSI Salient Object Detection" class="anchor" href="ORSI Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 
+## 2024      
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post:01 | **CVIU** | Transformer with Large Convolution Kernel Decoder Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002977?via%3Dihub)/[Code](https://github.com/Dpw506/TLCKD-Net)
+
 ## 2023       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
