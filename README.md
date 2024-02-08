@@ -28,7 +28,7 @@
 :triangular_flag_on_post:01 | **CVIU** | Transformer with Large Convolution Kernel Decoder Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002977?via%3Dihub)/[Code](https://github.com/Dpw506/TLCKD-Net)
 :triangular_flag_on_post:02 | **IEEE TGRS** | ORSI Salient Object Detection via Progressive Semantic Flow and Uncertainty-aware Refinement | [Paper](https://ieeexplore.ieee.org/document/10416252)/[Code](https://github.com/ZhengJianwei2/SFANet)
 :triangular_flag_on_post:03 | **IEEE GRSL** | Global-Local Semantic Interaction Network for Salient Object Detection in Optical Remote Sensing Images with Scribble Supervision | [Paper](https://ieeexplore.ieee.org/document/10416556)/Code
-:triangular_flag_on_post:04 | **Remote Sensing** | Global and Multiscale Aggregate Network for Saliency Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/16/4/624)/Code
+:triangular_flag_on_post:04 | **Remote Sensing** | Global and Multiscale Aggregate Network for Saliency Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/16/4/624)/[Code](https://github.com/houjiayue/GMANet)
 
 
 
