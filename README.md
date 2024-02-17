@@ -30,6 +30,8 @@
 :triangular_flag_on_post:03 | **IEEE GRSL** | Global-Local Semantic Interaction Network for Salient Object Detection in Optical Remote Sensing Images with Scribble Supervision | [Paper](https://ieeexplore.ieee.org/document/10416556)/Code
 :triangular_flag_on_post:04 | **Remote Sensing** | Global and Multiscale Aggregate Network for Saliency Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/16/4/624)/[Code](https://github.com/houjiayue/GMANet)
 :triangular_flag_on_post:05 | **IEEE TGRS** | ASNet: Adaptive Semantic Network Based on Transformer-CNN for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10423029)/Code
+:triangular_flag_on_post:06 | **IEEE JSTARS** | Adaptive Dual-Stream Sparse Transformer Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10439066)/[Code](https://github.com/JieZzzoo/ADSTNet)
+
 
 
 
