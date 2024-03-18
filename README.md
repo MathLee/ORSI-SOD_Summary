@@ -32,6 +32,8 @@
 :triangular_flag_on_post:05 | **IEEE TGRS** | ASNet: Adaptive Semantic Network Based on Transformer-CNN for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10423029)/Code
 :triangular_flag_on_post:06 | **IEEE JSTARS** | Adaptive Dual-Stream Sparse Transformer Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10439066)/[Code](https://github.com/JieZzzoo/ADSTNet)
 :triangular_flag_on_post:07 | **Applied Intelligence** | One-stop Multiscale Reconciliation Attention Network with Scribble Supervision for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s10489-024-05359-4)/Code
+:triangular_flag_on_post:08 | **IEEE TGRS** | Exploiting Memory-based Cross-Image Contexts for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10466772)/Code
+
 
 
 
