@@ -33,6 +33,7 @@
 :triangular_flag_on_post:06 | **IEEE JSTARS** | Adaptive Dual-Stream Sparse Transformer Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10439066)/[Code](https://github.com/JieZzzoo/ADSTNet)
 :triangular_flag_on_post:07 | **Applied Intelligence** | One-stop Multiscale Reconciliation Attention Network with Scribble Supervision for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s10489-024-05359-4)/Code
 :triangular_flag_on_post:08 | **IEEE TGRS** | Exploiting Memory-based Cross-Image Contexts for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10466772)/Code
+:triangular_flag_on_post:09 | **IEEE TCAS-II** | Texture-Semantic Collaboration Network for ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10319772)/[Code](https://github.com/MathLee/TSCNet)
 
 
 
@@ -73,8 +74,7 @@
 28 | **Remote Sensing** | TCM-Net: Mixed Global–Local Learning for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/15/20/4977)/Code
 29 | **International Journal of Remote Sensing** | Bidirectional Mutual Guidance Transformer for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.tandfonline.com/doi/full/10.1080/01431161.2023.2229494)/[Code](https://github.com/hkkevinhf/BMGT)
 30 | **IET IP** | CSFFNet: Lightweight Cross-Scale Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ipr2.12972)/Code
-31 | **IEEE TCAS-II** | Texture-Semantic Collaboration Network for ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10319772)/[Code](https://github.com/MathLee/TSCNet)
-32 | **IEEE TGRS** | Boundary-Semantic Collaborative Guidance Network With Dual-Stream Feedback Mechanism for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://ieeexplore.ieee.org/document/10315168)/[Code](https://github.com/YUHsss/BSCGNet)
+31 | **IEEE TGRS** | Boundary-Semantic Collaborative Guidance Network With Dual-Stream Feedback Mechanism for Salient Object Detection in Optical Remote Sensing Imagery | [Paper](https://ieeexplore.ieee.org/document/10315168)/[Code](https://github.com/YUHsss/BSCGNet)
 
 
 
