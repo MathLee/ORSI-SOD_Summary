@@ -35,6 +35,8 @@
 :triangular_flag_on_post:08 | **IEEE TGRS** | Exploiting Memory-based Cross-Image Contexts for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10466772)/Code
 :triangular_flag_on_post:09 | **IEEE TCAS-II** | Texture-Semantic Collaboration Network for ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10319772)/[Code](https://github.com/MathLee/TSCNet)
 :triangular_flag_on_post:10 | **IEEE JSTARS** | Progressive Complementation Network With Semantics and Details for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10496829)/Code
+:triangular_flag_on_post:11 | **IEEE TGRS** | Towards Integrity and Detail with Ensemble Learning for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10529295)/Code
+
 
 
 
