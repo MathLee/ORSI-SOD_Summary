@@ -37,6 +37,7 @@
 :triangular_flag_on_post:10 | **IEEE JSTARS** | Progressive Complementation Network With Semantics and Details for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10496829)/Code
 :triangular_flag_on_post:11 | **IEEE TGRS** | Towards Integrity and Detail with Ensemble Learning for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10529295)/Code
 :triangular_flag_on_post:12 | **IEEE TGRS** | Multi-scale and Multi-dimensional Weighted Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10535415)/Code
+:triangular_flag_on_post:13 | **IEEE GRSL** | PRNet: Parallel Refinement Network with Group Feature Learning for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10534273)/[Code](https://github.com/BIT-GuSY/PRNet-ORSI)
 
 
 
