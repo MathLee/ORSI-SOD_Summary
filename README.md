@@ -25,19 +25,21 @@
 ## 2024      
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post:01 | **CVIU** | Transformer with Large Convolution Kernel Decoder Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002977?via%3Dihub)/[Code](https://github.com/Dpw506/TLCKD-Net)
-:triangular_flag_on_post:02 | **IEEE TGRS** | ORSI Salient Object Detection via Progressive Semantic Flow and Uncertainty-aware Refinement | [Paper](https://ieeexplore.ieee.org/document/10416252)/[Code](https://github.com/ZhengJianwei2/SFANet)
-:triangular_flag_on_post:03 | **IEEE GRSL** | Global-Local Semantic Interaction Network for Salient Object Detection in Optical Remote Sensing Images with Scribble Supervision | [Paper](https://ieeexplore.ieee.org/document/10416556)/Code
-:triangular_flag_on_post:04 | **Remote Sensing** | Global and Multiscale Aggregate Network for Saliency Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/16/4/624)/[Code](https://github.com/houjiayue/GMANet)
-:triangular_flag_on_post:05 | **IEEE TGRS** | ASNet: Adaptive Semantic Network Based on Transformer-CNN for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10423029)/Code
-:triangular_flag_on_post:06 | **IEEE JSTARS** | Adaptive Dual-Stream Sparse Transformer Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10439066)/[Code](https://github.com/JieZzzoo/ADSTNet)
-:triangular_flag_on_post:07 | **Applied Intelligence** | One-stop Multiscale Reconciliation Attention Network with Scribble Supervision for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s10489-024-05359-4)/Code
-:triangular_flag_on_post:08 | **IEEE TGRS** | Exploiting Memory-based Cross-Image Contexts for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10466772)/Code
-:triangular_flag_on_post:09 | **IEEE TCAS-II** | Texture-Semantic Collaboration Network for ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10319772)/[Code](https://github.com/MathLee/TSCNet)
+01 | **CVIU** | Transformer with Large Convolution Kernel Decoder Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314223002977?via%3Dihub)/[Code](https://github.com/Dpw506/TLCKD-Net)
+02 | **IEEE TGRS** | ORSI Salient Object Detection via Progressive Semantic Flow and Uncertainty-aware Refinement | [Paper](https://ieeexplore.ieee.org/document/10416252)/[Code](https://github.com/ZhengJianwei2/SFANet)
+03 | **IEEE GRSL** | Global-Local Semantic Interaction Network for Salient Object Detection in Optical Remote Sensing Images with Scribble Supervision | [Paper](https://ieeexplore.ieee.org/document/10416556)/Code
+04 | **Remote Sensing** | Global and Multiscale Aggregate Network for Saliency Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/16/4/624)/[Code](https://github.com/houjiayue/GMANet)
+05 | **IEEE TGRS** | ASNet: Adaptive Semantic Network Based on Transformer-CNN for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10423029)/Code
+06 | **IEEE JSTARS** | Adaptive Dual-Stream Sparse Transformer Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10439066)/[Code](https://github.com/JieZzzoo/ADSTNet)
+07 | **Applied Intelligence** | One-stop Multiscale Reconciliation Attention Network with Scribble Supervision for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/article/10.1007/s10489-024-05359-4)/Code
+08 | **IEEE TGRS** | Exploiting Memory-based Cross-Image Contexts for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10466772)/Code
+09 | **IEEE TCAS-II** | Texture-Semantic Collaboration Network for ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10319772)/[Code](https://github.com/MathLee/TSCNet)
 :triangular_flag_on_post:10 | **IEEE JSTARS** | Progressive Complementation Network With Semantics and Details for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10496829)/Code
 :triangular_flag_on_post:11 | **IEEE TGRS** | Towards Integrity and Detail with Ensemble Learning for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10529295)/Code
 :triangular_flag_on_post:12 | **IEEE TGRS** | Multi-scale and Multi-dimensional Weighted Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10535415)/Code
 :triangular_flag_on_post:13 | **IEEE GRSL** | PRNet: Parallel Refinement Network with Group Feature Learning for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10534273)/[Code](https://github.com/BIT-GuSY/PRNet-ORSI)
+:triangular_flag_on_post:14 | **Entropy** | Global Semantic-Sense Aggregation Network for Salient Object Detection in Remote Sensing Images | [Paper](https://www.mdpi.com/1099-4300/26/6/445)/[Code](https://github.com/OrangeCat12352/GSANet)
+
 
 
 
