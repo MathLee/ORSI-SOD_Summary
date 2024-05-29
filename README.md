@@ -36,7 +36,7 @@
 09 | **IEEE TCAS-II** | Texture-Semantic Collaboration Network for ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10319772)/[Code](https://github.com/MathLee/TSCNet)
 :triangular_flag_on_post:10 | **IEEE JSTARS** | Progressive Complementation Network With Semantics and Details for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10496829)/Code
 :triangular_flag_on_post:11 | **IEEE TGRS** | Towards Integrity and Detail with Ensemble Learning for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10529295)/Code
-:triangular_flag_on_post:12 | **IEEE TGRS** | Multi-scale and Multi-dimensional Weighted Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10535415)/Code
+:triangular_flag_on_post:12 | **IEEE TGRS** | Multi-scale and Multi-dimensional Weighted Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10535415)/[Code](https://https://github.com/dilamei/WeightNet)
 :triangular_flag_on_post:13 | **IEEE GRSL** | PRNet: Parallel Refinement Network with Group Feature Learning for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10534273)/[Code](https://github.com/BIT-GuSY/PRNet-ORSI)
 :triangular_flag_on_post:14 | **Entropy** | Global Semantic-Sense Aggregation Network for Salient Object Detection in Remote Sensing Images | [Paper](https://www.mdpi.com/1099-4300/26/6/445)/[Code](https://github.com/OrangeCat12352/GSANet)
 
