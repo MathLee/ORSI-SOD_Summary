@@ -39,10 +39,7 @@
 :triangular_flag_on_post:12 | **IEEE TGRS** | Multi-scale and Multi-dimensional Weighted Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10535415)/Code
 :triangular_flag_on_post:13 | **IEEE GRSL** | PRNet: Parallel Refinement Network with Group Feature Learning for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10534273)/[Code](https://github.com/BIT-GuSY/PRNet-ORSI)
 :triangular_flag_on_post:14 | **Entropy** | Global Semantic-Sense Aggregation Network for Salient Object Detection in Remote Sensing Images | [Paper](https://www.mdpi.com/1099-4300/26/6/445)/[Code](https://github.com/OrangeCat12352/GSANet)
-
-
-
-
+:triangular_flag_on_post:15 | **Journal of the Indian Society of Remote Sensing** | Salient Object Detection in Optical Remote Sensing Images Based on Global Context Mixed Attention | [Paper](https://link.springer.com/article/10.1007/s12524-024-01870-w)/Code
 
 
 
