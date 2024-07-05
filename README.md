@@ -42,6 +42,7 @@
 :triangular_flag_on_post:15 | **Journal of the Indian Society of Remote Sensing** | Salient Object Detection in Optical Remote Sensing Images Based on Global Context Mixed Attention | [Paper](https://link.springer.com/article/10.1007/s12524-024-01870-w)/Code
 :triangular_flag_on_post:16 | **IEEE TMM** | Deeply Hybrid Contrastive Learning Based on Semantic Pseudo-Label for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10557726)/Code
 :triangular_flag_on_post:17 | **IEEE TGRS** | A Robust Adversarial Defense Algorithm for Enhancing Salient Object Detection in Remote Sensing Image | [Paper](https://ieeexplore.ieee.org/abstract/document/10559640)/Code
+:triangular_flag_on_post:18 | **IEEE JSTARS** | Multi-level Interactive Reverse Guided Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10584269)/[Code](https://github.com/JieZzzoo/MIRGNet)
 
 
 
