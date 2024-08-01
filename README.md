@@ -44,6 +44,8 @@
 :triangular_flag_on_post:17 | **IEEE TGRS** | A Robust Adversarial Defense Algorithm for Enhancing Salient Object Detection in Remote Sensing Image | [Paper](https://ieeexplore.ieee.org/abstract/document/10559640)/Code
 :triangular_flag_on_post:18 | **IEEE JSTARS** | Multi-level Interactive Reverse Guided Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10584269)/[Code](https://github.com/JieZzzoo/MIRGNet)
 :triangular_flag_on_post:19 | **IEEE TGRS** | Recurrent Adaptive Graph Reasoning Network with Region and Boundary Interaction for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10580988)/[Code](https://github.com/JieZzzoo/RAGRNet)
+:triangular_flag_on_post:20 | **IEEE JSTARS** | Spatial Attention Feedback Iteration for Lightweight Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10614803)/[Code](https://github.com/WangJianQin7/SAFINet)
+
 
 
 
