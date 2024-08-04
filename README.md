@@ -41,11 +41,10 @@
 14 | **Entropy** | Global Semantic-Sense Aggregation Network for Salient Object Detection in Remote Sensing Images | [Paper](https://www.mdpi.com/1099-4300/26/6/445)/[Code](https://github.com/OrangeCat12352/GSANet)
 15 | **Journal of the Indian Society of Remote Sensing** | Salient Object Detection in Optical Remote Sensing Images Based on Global Context Mixed Attention | [Paper](https://link.springer.com/article/10.1007/s12524-024-01870-w)/Code
 16 | **IEEE TMM** | Deeply Hybrid Contrastive Learning Based on Semantic Pseudo-Label for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10557726)/Code
-:triangular_flag_on_post:17 | **IEEE TGRS** | A Robust Adversarial Defense Algorithm for Enhancing Salient Object Detection in Remote Sensing Image | [Paper](https://ieeexplore.ieee.org/abstract/document/10559640)/Code
-:triangular_flag_on_post:18 | **IEEE JSTARS** | Multi-level Interactive Reverse Guided Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10584269)/[Code](https://github.com/JieZzzoo/MIRGNet)
+17 | **IEEE TGRS** | A Robust Adversarial Defense Algorithm for Enhancing Salient Object Detection in Remote Sensing Image | [Paper](https://ieeexplore.ieee.org/abstract/document/10559640)/Code
+:triangular_flag_on_post:18 | **IEEE JSTARS** | Multilevel Interactive Reverse Guided Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10584269)/[Code](https://github.com/JieZzzoo/MIRGNet)
 :triangular_flag_on_post:19 | **IEEE TGRS** | Recurrent Adaptive Graph Reasoning Network with Region and Boundary Interaction for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10580988)/[Code](https://github.com/JieZzzoo/RAGRNet)
 :triangular_flag_on_post:20 | **IEEE JSTARS** | Spatial Attention Feedback Iteration for Lightweight Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10614803)/[Code](https://github.com/WangJianQin7/SAFINet)
-:triangular_flag_on_post:21 | **IEEE JSTARS** | Multilevel Interactive Reverse-Guided Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10584269)/[Code](https://github.com/JieZzzoo/MIRGNet)
 
 
 
