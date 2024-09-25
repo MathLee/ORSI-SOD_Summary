@@ -49,6 +49,8 @@
 :triangular_flag_on_post:22 | **Remote Sensing** | Global Context Relation-Guided Feature Aggregation Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/16/16/2978)/Code
 :triangular_flag_on_post:23 | **JVCI** | GINet: Graph Interactive Network with Semantic-guided Spatial Refinement for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S104732032400213X?via%3Dihub=)/Code
 :triangular_flag_on_post:24 | **IEEE IGARSS** | Edge Complementary Multi-Scale Aggregation Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10642328)/Code
+:triangular_flag_on_post:25 | **Electronics** | Dual-Stream Feature Collaboration Perception Network for Salient Object Detection in Remote Sensing Images | [Paper](https://www.mdpi.com/2079-9292/13/18/3755)/[Code](https://github.com/OrangeCat12352/DCPNet)
+
 
 
 
