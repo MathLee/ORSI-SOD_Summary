@@ -44,12 +44,13 @@
 17 | **IEEE TGRS** | A Robust Adversarial Defense Algorithm for Enhancing Salient Object Detection in Remote Sensing Image | [Paper](https://ieeexplore.ieee.org/abstract/document/10559640)/Code
 18 | **IEEE JSTARS** | Multilevel Interactive Reverse Guided Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10584269)/[Code](https://github.com/JieZzzoo/MIRGNet)
 19 | **IEEE TGRS** | Recurrent Adaptive Graph Reasoning Network with Region and Boundary Interaction for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10580988)/[Code](https://github.com/JieZzzoo/RAGRNet)
-:triangular_flag_on_post:20 | **IEEE JSTARS** | Spatial Attention Feedback Iteration for Lightweight Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10614803)/[Code](https://github.com/WangJianQin7/SAFINet)
-:triangular_flag_on_post:21 | **IEEE TGRS** | Heterogeneous Feature Collaboration Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10623773)/[Code](https://github.com/xumingzhu989/HFCNet-TGRS)
+20 | **IEEE JSTARS** | Spatial Attention Feedback Iteration for Lightweight Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10614803)/[Code](https://github.com/WangJianQin7/SAFINet)
+21 | **IEEE TGRS** | Heterogeneous Feature Collaboration Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10623773)/[Code](https://github.com/xumingzhu989/HFCNet-TGRS)
 :triangular_flag_on_post:22 | **Remote Sensing** | Global Context Relation-Guided Feature Aggregation Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/16/16/2978)/Code
 :triangular_flag_on_post:23 | **JVCI** | GINet: Graph Interactive Network with Semantic-guided Spatial Refinement for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S104732032400213X?via%3Dihub=)/Code
 :triangular_flag_on_post:24 | **IEEE IGARSS** | Edge Complementary Multi-Scale Aggregation Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10642328)/Code
 :triangular_flag_on_post:25 | **Electronics** | Dual-Stream Feature Collaboration Perception Network for Salient Object Detection in Remote Sensing Images | [Paper](https://www.mdpi.com/2079-9292/13/18/3755)/[Code](https://github.com/OrangeCat12352/DCPNet)
+:triangular_flag_on_post:26 | **Expert Systems with Applications** | Multi–source Information Fusion Attention Network for Weakly Supervised Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424023728?via=ihub)/Code
 
 
 
