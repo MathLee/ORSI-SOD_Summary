@@ -52,7 +52,8 @@
 :triangular_flag_on_post:25 | **Electronics** | Dual-Stream Feature Collaboration Perception Network for Salient Object Detection in Remote Sensing Images | [Paper](https://www.mdpi.com/2079-9292/13/18/3755)/[Code](https://github.com/OrangeCat12352/DCPNet)
 :triangular_flag_on_post:26 | **Expert Systems with Applications** | Multi–source Information Fusion Attention Network for Weakly Supervised Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424023728?via=ihub)/Code
 :triangular_flag_on_post:27 | **Arxiv** | Localization, Balance and Affinity: A Stronger Multifaceted Collaborative Salient Object Detector in Remote Sensing Images | [Paper](https://arxiv.org/abs/2410.23991)/Code
-
+:triangular_flag_on_post:28 | **IEEE TGRS** | Lightweight Progressive Multi-level Feature Collaborative Network for Remote Sensing Image Salient Object Detection
+ | [Paper](https://ieeexplore.ieee.org/document/10737096)/Code
 
 
 
