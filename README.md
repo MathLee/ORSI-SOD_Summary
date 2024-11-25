@@ -56,6 +56,7 @@
 :triangular_flag_on_post:29 | **IEEE TGRS** | Bi-Branch Multiscale Feature Joint Network for ORSI Salient Object Detection in Adverse Weather Conditions | [Paper](https://ieeexplore.ieee.org/document/10731909)/Code
 :triangular_flag_on_post:30 | **IEEE GRSL** | Dynamic Context Coordination for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10738846)/Code
 :triangular_flag_on_post:31 | **Arxiv** | United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/abs/2411.06703)/[Code](https://github.com/CSYSI/UDCNet)
+:triangular_flag_on_post:32 | **The Visual Computer** | Enhanced Salient Object Detection in Remote Sensing Images via Dual-stream Semantic Interactive Network | [Paper](https://link.springer.com/article/10.1007/s00371-024-03713-8)/[Code](https://github.com/dqxfj99/DSINet)
 
 
 
