@@ -60,6 +60,10 @@
 :triangular_flag_on_post:33 | **IEEE TGRS** | Learning to Adapt Using Test-Time Images for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10764741)/Code
 :triangular_flag_on_post:34 | **IEEE TGRS** | Speed-oriented Lightweight Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10772137)/[Code](https://github.com/SpiritAshes/SOLNet)
 :triangular_flag_on_post:35 | **Electronics** | Lightweight Multi-Scale Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2079-9292/14/1/8)/Code
+:triangular_flag_on_post:36 | **IEEE TGRS** | LSHNet: Leveraging Structure-Prior With Hierarchical Features Updates for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10699430)/Code
+
+
+
 
 
 
