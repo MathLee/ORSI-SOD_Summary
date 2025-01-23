@@ -22,6 +22,11 @@
   
 # ORSI Salient Object Detection <a id="ORSI Salient Object Detection" class="anchor" href="ORSI Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 
+## 2025     
+**No.** | **Pub.** | **Title** | **Links** 
+:triangular_flag_on_post:1 | **Remote Sensing** | Progressive Self-Prompting Segment Anything Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/17/2/342)/Code
+
+
 ## 2024      
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
@@ -55,18 +60,12 @@
 28 | **IEEE TGRS** | Lightweight Progressive Multi-level Feature Collaborative Network for Remote Sensing Image Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10737096)/Code
 29 | **IEEE TGRS** | Bi-Branch Multiscale Feature Joint Network for ORSI Salient Object Detection in Adverse Weather Conditions | [Paper](https://ieeexplore.ieee.org/document/10731909)/Code
 30 | **IEEE GRSL** | Dynamic Context Coordination for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10738846)/Code
-:triangular_flag_on_post:31 | **IEEE TGRS** | United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10752644)/[Code](https://github.com/CSYSI/UDCNet)
-:triangular_flag_on_post:32 | **The Visual Computer** | Enhanced Salient Object Detection in Remote Sensing Images via Dual-stream Semantic Interactive Network | [Paper](https://link.springer.com/article/10.1007/s00371-024-03713-8)/[Code](https://github.com/dqxfj99/DSINet)
-:triangular_flag_on_post:33 | **IEEE TGRS** | Learning to Adapt Using Test-Time Images for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10764741)/Code
-:triangular_flag_on_post:34 | **IEEE TGRS** | Speed-oriented Lightweight Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10772137)/[Code](https://github.com/SpiritAshes/SOLNet)
-:triangular_flag_on_post:35 | **Electronics** | Lightweight Multi-Scale Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2079-9292/14/1/8)/Code
-:triangular_flag_on_post:36 | **IEEE TGRS** | LSHNet: Leveraging Structure-Prior With Hierarchical Features Updates for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10699430)/Code
-
-
-
-
-
-
+31 | **IEEE TGRS** | United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10752644)/[Code](https://github.com/CSYSI/UDCNet)
+32 | **The Visual Computer** | Enhanced Salient Object Detection in Remote Sensing Images via Dual-stream Semantic Interactive Network | [Paper](https://link.springer.com/article/10.1007/s00371-024-03713-8)/[Code](https://github.com/dqxfj99/DSINet)
+33 | **IEEE TGRS** | Learning to Adapt Using Test-Time Images for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10764741)/Code
+34 | **IEEE TGRS** | Speed-oriented Lightweight Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10772137)/[Code](https://github.com/SpiritAshes/SOLNet)
+35 | **Electronics** | Lightweight Multi-Scale Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2079-9292/14/1/8)/Code
+36 | **IEEE TGRS** | LSHNet: Leveraging Structure-Prior With Hierarchical Features Updates for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10699430)/Code
 
 
 
