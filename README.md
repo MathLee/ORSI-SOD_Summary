@@ -24,7 +24,8 @@
 
 ## 2025     
 **No.** | **Pub.** | **Title** | **Links** 
-:triangular_flag_on_post:1 | **Remote Sensing** | Progressive Self-Prompting Segment Anything Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/17/2/342)/Code
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post:01 | **Remote Sensing** | Progressive Self-Prompting Segment Anything Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/17/2/342)/Code
 
 
 ## 2024      
