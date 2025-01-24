@@ -67,6 +67,10 @@
 34 | **IEEE TGRS** | Speed-oriented Lightweight Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10772137)/[Code](https://github.com/SpiritAshes/SOLNet)
 35 | **Electronics** | Lightweight Multi-Scale Feature Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2079-9292/14/1/8)/Code
 36 | **IEEE TGRS** | LSHNet: Leveraging Structure-Prior With Hierarchical Features Updates for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10699430)/Code
+37 | **ISAPE** | B2Net: Body and Boundary Learning for Salient Object Detection in Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10840418)/Code
+
+
+
 
 
 
