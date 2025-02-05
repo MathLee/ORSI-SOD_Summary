@@ -1,7 +1,7 @@
 # Salient Object Detection in Optical Remote Sensing Images Read List         
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **ORSI SOD**: Add one IEEE TGRS paper.   
+ :heavy_exclamation_mark:  **ORSI SOD**: Add one Neurocomputing paper.   
 
 :running: **Keep updating.** :running:    
 --------------------------------------------------------------------------------------
@@ -26,6 +26,8 @@
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post:01 | **Remote Sensing** | Progressive Self-Prompting Segment Anything Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/17/2/342)/Code
+:triangular_flag_on_post:02 | **Neurocomputing** | DKETFormer: Salient Object Detection in Optical Remote Sensing Images based on Discriminative Knowledge Extraction and Transfer | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225002309)/Code
+
 
 
 ## 2024      
