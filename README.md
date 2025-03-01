@@ -28,6 +28,8 @@
 :triangular_flag_on_post:01 | **Remote Sensing** | Progressive Self-Prompting Segment Anything Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/17/2/342)/Code
 :triangular_flag_on_post:02 | **Neurocomputing** | DKETFormer: Salient Object Detection in Optical Remote Sensing Images based on Discriminative Knowledge Extraction and Transfer | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225002309)/Code
 :triangular_flag_on_post:03 | **IEEE JSTARS** | Progressive Enhancement of Foreground Features for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10902559)/[Code](https://github.com/nitnumberone/PEFFNet)
+:triangular_flag_on_post:04 | **Remote Sensing** | A Lightweight Semantic- and Graph-Guided Network for Advanced Optical Remote Sensing Image Salient Object Detection | [Paper](https://www.mdpi.com/2072-4292/17/5/861)/[Code](https://github.com/LittleGrey-hjp/SggNet)
+
 
 
 
