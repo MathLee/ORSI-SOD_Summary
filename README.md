@@ -32,6 +32,8 @@
 :triangular_flag_on_post:05 | **Pattern Recognition** | Optical Remote Sensing Image Salient Object Detection via Bidirectional Cross-attention and Attention Restoration | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325001384)/[Code](https://github.com/ClimBin/BCARNet)
 :triangular_flag_on_post:06 | **IEEE TGRS** | A Lightweight Multi-Stream Framework for Salient Object Detection in Optical Remote Sensing | [Paper](https://ieeexplore.ieee.org/abstract/document/10945380)/[Code](https://github.com/ai-kunkun/LiteSalNet)
 :triangular_flag_on_post:07 | **IEEE Access** | EMHANet: Lightweight Salient Object Detection for Remote Sensing Images via Edge-Aware Multiscale Feature Fusion | [Paper](https://ieeexplore.ieee.org/document/10980003)/[Code](https://github.com/darkseid-arch/EMHANet)
+:triangular_flag_on_post:08 | **IEEE TGRS** | Rethinking Masked Autoencoder for Salient Object Detection in Optical Remote Sensing Images from a Pseudo Image Pretraining Perspective | [Paper](https://ieeexplore.ieee.org/abstract/document/10981795)/[Code](https://github.com/Voruarn/EANet)
+
 
 
 
