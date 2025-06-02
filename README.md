@@ -25,19 +25,19 @@
 ## 2025     
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post:01 | **Remote Sensing** | Progressive Self-Prompting Segment Anything Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/17/2/342)/Code
-:triangular_flag_on_post:02 | **Neurocomputing** | DKETFormer: Salient Object Detection in Optical Remote Sensing Images based on Discriminative Knowledge Extraction and Transfer | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225002309)/Code
-:triangular_flag_on_post:03 | **IEEE JSTARS** | Progressive Enhancement of Foreground Features for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10902559)/[Code](https://github.com/nitnumberone/PEFFNet)
-:triangular_flag_on_post:04 | **Remote Sensing** | A Lightweight Semantic- and Graph-Guided Network for Advanced Optical Remote Sensing Image Salient Object Detection | [Paper](https://www.mdpi.com/2072-4292/17/5/861)/[Code](https://github.com/LittleGrey-hjp/SggNet)
-:triangular_flag_on_post:05 | **Pattern Recognition** | Optical Remote Sensing Image Salient Object Detection via Bidirectional Cross-attention and Attention Restoration | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325001384)/[Code](https://github.com/ClimBin/BCARNet)
-:triangular_flag_on_post:06 | **IEEE TGRS** | A Lightweight Multi-Stream Framework for Salient Object Detection in Optical Remote Sensing | [Paper](https://ieeexplore.ieee.org/abstract/document/10945380)/[Code](https://github.com/ai-kunkun/LiteSalNet)
-:triangular_flag_on_post:07 | **IEEE Access** | EMHANet: Lightweight Salient Object Detection for Remote Sensing Images via Edge-Aware Multiscale Feature Fusion | [Paper](https://ieeexplore.ieee.org/document/10980003)/[Code](https://github.com/darkseid-arch/EMHANet)
-:triangular_flag_on_post:08 | **IEEE TGRS** | Rethinking Masked Autoencoder for Salient Object Detection in Optical Remote Sensing Images from a Pseudo Image Pretraining Perspective | [Paper](https://ieeexplore.ieee.org/abstract/document/10981795)/[Code](https://github.com/Voruarn/EANet)
+01 | **Remote Sensing** | Progressive Self-Prompting Segment Anything Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/17/2/342)/Code
+02 | **Neurocomputing** | DKETFormer: Salient Object Detection in Optical Remote Sensing Images based on Discriminative Knowledge Extraction and Transfer | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225002309)/Code
+03 | **IEEE JSTARS** | Progressive Enhancement of Foreground Features for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10902559)/[Code](https://github.com/nitnumberone/PEFFNet)
+04 | **Remote Sensing** | A Lightweight Semantic- and Graph-Guided Network for Advanced Optical Remote Sensing Image Salient Object Detection | [Paper](https://www.mdpi.com/2072-4292/17/5/861)/[Code](https://github.com/LittleGrey-hjp/SggNet)
+05 | **Pattern Recognition** | Optical Remote Sensing Image Salient Object Detection via Bidirectional Cross-attention and Attention Restoration | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325001384)/[Code](https://github.com/ClimBin/BCARNet)
+06 | **IEEE TGRS** | A Lightweight Multi-Stream Framework for Salient Object Detection in Optical Remote Sensing | [Paper](https://ieeexplore.ieee.org/abstract/document/10945380)/[Code](https://github.com/ai-kunkun/LiteSalNet)
+07 | **IEEE Access** | EMHANet: Lightweight Salient Object Detection for Remote Sensing Images via Edge-Aware Multiscale Feature Fusion | [Paper](https://ieeexplore.ieee.org/document/10980003)/[Code](https://github.com/darkseid-arch/EMHANet)
+08 | **IEEE TGRS** | Rethinking Masked Autoencoder for Salient Object Detection in Optical Remote Sensing Images from a Pseudo Image Pretraining Perspective | [Paper](https://ieeexplore.ieee.org/abstract/document/10981795)/[Code](https://github.com/Voruarn/EANet)
 :triangular_flag_on_post:09 | **DSP** | Salient Object Detection in Optical Remote Sensing Images Based on Hybrid Edge Fusion Perception | [Paper](https://www.sciencedirect.com/science/article/pii/S1051200425003549?via%3Dihub)/Code
 :triangular_flag_on_post:10 | **Sensors** | MCFNet: Multi-Scale Contextual Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/1424-8220/25/10/3035)/Code
 :triangular_flag_on_post:11 | **Remote Sensing** | TSFANet: Trans-Mamba Hybrid Network with Semantic Feature Alignment for Remote Sensing Salient Object Detection | [Paper](https://www.mdpi.com/2072-4292/17/11/1902)/Code
 :triangular_flag_on_post:12 | **Image and Vision Computing** | Consensus Exploration and Detail Perception for Co-Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S026288562500174X?via%3Dihub)/[Code](https://github.com/chen000701/CEDPNet)
-
+:triangular_flag_on_post:13 | **ISPRS JP&RS** | Saliency Supervised Masked Autoencoder Pretrained Salient Location Mining Network for Remote Sensing Image Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001236)/[Code](https://github.com/Voruarn/SLMNet)
 
 
 
