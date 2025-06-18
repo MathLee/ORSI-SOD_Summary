@@ -38,6 +38,7 @@
 :triangular_flag_on_post:11 | **Remote Sensing** | TSFANet: Trans-Mamba Hybrid Network with Semantic Feature Alignment for Remote Sensing Salient Object Detection | [Paper](https://www.mdpi.com/2072-4292/17/11/1902)/Code
 :triangular_flag_on_post:12 | **Image and Vision Computing** | Consensus Exploration and Detail Perception for Co-Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S026288562500174X?via%3Dihub)/[Code](https://github.com/chen000701/CEDPNet)
 :triangular_flag_on_post:13 | **ISPRS JP&RS** | Saliency Supervised Masked Autoencoder Pretrained Salient Location Mining Network for Remote Sensing Image Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001236)/[Code](https://github.com/Voruarn/SLMNet)
+:triangular_flag_on_post:14 | **IEEE TGRS** | ORSIDiff: Diffusion Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/11032144)/Code
 
 
 
