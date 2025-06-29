@@ -40,6 +40,7 @@
 :triangular_flag_on_post:13 | **ISPRS JP&RS** | Saliency Supervised Masked Autoencoder Pretrained Salient Location Mining Network for Remote Sensing Image Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001236)/[Code](https://github.com/Voruarn/SLMNet)
 :triangular_flag_on_post:14 | **IEEE TGRS** | ORSIDiff: Diffusion Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/11032144)/Code
 :triangular_flag_on_post:15 | **IEEE TGRS** | Local–Global Information Perception Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11010885)/[Code](https://github.com/sCauliflower/LGIPNet)
+:triangular_flag_on_post:16 | **Remote Sensing** | IEAM: Integrating Edge Enhancement and Attention Mechanism with Multi-Path Complementary Features for Salient Object Detection in Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/17/12/2053)/Code
 
 
 
