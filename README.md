@@ -33,16 +33,18 @@
 06 | **IEEE TGRS** | A Lightweight Multi-Stream Framework for Salient Object Detection in Optical Remote Sensing | [Paper](https://ieeexplore.ieee.org/abstract/document/10945380)/[Code](https://github.com/ai-kunkun/LiteSalNet)
 07 | **IEEE Access** | EMHANet: Lightweight Salient Object Detection for Remote Sensing Images via Edge-Aware Multiscale Feature Fusion | [Paper](https://ieeexplore.ieee.org/document/10980003)/[Code](https://github.com/darkseid-arch/EMHANet)
 08 | **IEEE TGRS** | Rethinking Masked Autoencoder for Salient Object Detection in Optical Remote Sensing Images from a Pseudo Image Pretraining Perspective | [Paper](https://ieeexplore.ieee.org/abstract/document/10981795)/[Code](https://github.com/Voruarn/EANet)
-:triangular_flag_on_post:09 | **DSP** | Salient Object Detection in Optical Remote Sensing Images Based on Hybrid Edge Fusion Perception | [Paper](https://www.sciencedirect.com/science/article/pii/S1051200425003549?via%3Dihub)/Code
-:triangular_flag_on_post:10 | **Sensors** | MCFNet: Multi-Scale Contextual Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/1424-8220/25/10/3035)/Code
-:triangular_flag_on_post:11 | **Remote Sensing** | TSFANet: Trans-Mamba Hybrid Network with Semantic Feature Alignment for Remote Sensing Salient Object Detection | [Paper](https://www.mdpi.com/2072-4292/17/11/1902)/Code
-:triangular_flag_on_post:12 | **Image and Vision Computing** | Consensus Exploration and Detail Perception for Co-Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S026288562500174X?via%3Dihub)/[Code](https://github.com/chen000701/CEDPNet)
-:triangular_flag_on_post:13 | **ISPRS JP&RS** | Saliency Supervised Masked Autoencoder Pretrained Salient Location Mining Network for Remote Sensing Image Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001236)/[Code](https://github.com/Voruarn/SLMNet)
-:triangular_flag_on_post:14 | **IEEE TGRS** | ORSIDiff: Diffusion Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/11032144)/Code
+09 | **DSP** | Salient Object Detection in Optical Remote Sensing Images Based on Hybrid Edge Fusion Perception | [Paper](https://www.sciencedirect.com/science/article/pii/S1051200425003549?via%3Dihub)/Code
+10 | **Sensors** | MCFNet: Multi-Scale Contextual Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.mdpi.com/1424-8220/25/10/3035)/Code
+11 | **Remote Sensing** | TSFANet: Trans-Mamba Hybrid Network with Semantic Feature Alignment for Remote Sensing Salient Object Detection | [Paper](https://www.mdpi.com/2072-4292/17/11/1902)/Code
+12 | **Image and Vision Computing** | Consensus Exploration and Detail Perception for Co-Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S026288562500174X?via%3Dihub)/[Code](https://github.com/chen000701/CEDPNet)
+13 | **ISPRS JP&RS** | Saliency Supervised Masked Autoencoder Pretrained Salient Location Mining Network for Remote Sensing Image Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001236)/[Code](https://github.com/Voruarn/SLMNet)
+14 | **IEEE TGRS** | ORSIDiff: Diffusion Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/11032144)/Code
 :triangular_flag_on_post:15 | **IEEE TGRS** | Local–Global Information Perception Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11010885)/[Code](https://github.com/sCauliflower/LGIPNet)
 :triangular_flag_on_post:16 | **Remote Sensing** | IEAM: Integrating Edge Enhancement and Attention Mechanism with Multi-Path Complementary Features for Salient Object Detection in Remote Sensing Images | [Paper](https://www.mdpi.com/2072-4292/17/12/2053)/Code
 :triangular_flag_on_post:17 | **ICMR** | Direction-aware Attention and Semantic Guidance Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://dl.acm.org/doi/10.1145/3731715.3733308)/Code
 :triangular_flag_on_post:18 | **IJCAI** | Dual-Perspective United Transformer for Object Segmentation in Optical Remote Sensing Images | [Paper](https://arxiv.org/abs/2506.21866)/[Code](https://github.com/CSYSI/DPU-Former)
+:triangular_flag_on_post:19 | **IEEE TGRS** | Exploring a Lightweight and Efficient Network for Salient Object Detection in ORSI | [Paper](https://ieeexplore.ieee.org/abstract/document/11062350)/[Code](https://github.com/hjy0518/RAMENet)
+
 
 
 
