@@ -44,6 +44,8 @@
 :triangular_flag_on_post:17 | **ICMR** | Direction-aware Attention and Semantic Guidance Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://dl.acm.org/doi/10.1145/3731715.3733308)/Code
 :triangular_flag_on_post:18 | **IJCAI** | Dual-Perspective United Transformer for Object Segmentation in Optical Remote Sensing Images | [Paper](https://arxiv.org/abs/2506.21866)/[Code](https://github.com/CSYSI/DPU-Former)
 :triangular_flag_on_post:19 | **IEEE TGRS** | Exploring a Lightweight and Efficient Network for Salient Object Detection in ORSI | [Paper](https://ieeexplore.ieee.org/abstract/document/11062350)/[Code](https://github.com/hjy0518/RAMENet)
+:triangular_flag_on_post:20 | **ICIC** | Feature-Augmented Segment Anything Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/chapter/10.1007/978-981-96-9863-9_10)/Code
+:triangular_flag_on_post:21 | **AIRSA** | HFDANet: A Hierarchical Feature and Dual-Branch Adaptive Refinement Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/3055/1/012027)/Code
 
 
 
