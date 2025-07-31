@@ -47,7 +47,8 @@
 :triangular_flag_on_post:20 | **ICIC** | Feature-Augmented Segment Anything Model for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://link.springer.com/chapter/10.1007/978-981-96-9863-9_10)/Code
 :triangular_flag_on_post:21 | **AIRSA** | HFDANet: A Hierarchical Feature and Dual-Branch Adaptive Refinement Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/3055/1/012027)/Code
 :triangular_flag_on_post:22 | **IEEE JSTARS** | PIFRNet: Position Information Guided Feature Reconstruction Network for Salient Object Detection in Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11049872)/[Code](https://github.com/darkseid-arch/PIFRNet)
-:triangular_flag_on_post:23 | **IEEE TGRS** | Multistrategy Region and Boundary Interaction Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/abstract/document/11079770)/[Code](https://github.com/JieZzzoo/MRBINet)
+:triangular_flag_on_post:23 | **IEEE TGRS** | Multistrategy Region and Boundary Interaction Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11079770)/[Code](https://github.com/JieZzzoo/MRBINet)
+:triangular_flag_on_post:24 | **IEEE TGRS** | Lightweight Edge-Aware Mamba-Fusion Network for Weakly Supervised Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11075875)/[Code](https://github.com/xingggao/LightEMNet)
 
 
 
