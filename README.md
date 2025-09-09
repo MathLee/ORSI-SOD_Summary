@@ -50,6 +50,8 @@
 :triangular_flag_on_post:23 | **IEEE TGRS** | Multistrategy Region and Boundary Interaction Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11079770)/[Code](https://github.com/JieZzzoo/MRBINet)
 :triangular_flag_on_post:24 | **IEEE TGRS** | Lightweight Edge-Aware Mamba-Fusion Network for Weakly Supervised Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11075875)/[Code](https://github.com/xingggao/LightEMNet)
 :triangular_flag_on_post:25 | **arxiv** | GCRPNet: Graph-Enhanced Contextual and Regional Perception Network For Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/abs/2508.10542)/Code
+:triangular_flag_on_post:26 | **IEEE JSTARS** | Prompt-Driven Multi-Task Learning with Task Tokens for ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11153031)/[Code](https://github.com/elaxEgan/MTPNet)
+
 
 
 
