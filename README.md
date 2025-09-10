@@ -52,6 +52,12 @@
 :triangular_flag_on_post:25 | **arxiv** | GCRPNet: Graph-Enhanced Contextual and Regional Perception Network For Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/abs/2508.10542)/Code
 :triangular_flag_on_post:26 | **IEEE JSTARS** | Prompt-Driven Multi-Task Learning with Task Tokens for ORSI Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11153031)/[Code](https://github.com/elaxEgan/MTPNet)
 :triangular_flag_on_post:27 | **ESWA** | Incorporating Estimated Depth Maps and Multi-modal Pretraining to Improve Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425032397?via%3Dihub)/[Code](https://github.com/Voruarn/MMRIP)
+:triangular_flag_on_post:28 | **IEEE TGRS** | Advancing Segment Anything Model for Efficient Salient Object Detection in Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11146877)/Code
+:triangular_flag_on_post:29 | **IEEE JSTARS** | Robust Salient Object Detection in Optical Remote Sensing Images Via Multiscale Contextual Attention and Feature Enhancement | [Paper](https://ieeexplore.ieee.org/document/11146790)/[Code](https://github.com/Wyqmiao/RoCAFENet)
+:triangular_flag_on_post:30 | **IEEE GRSL** | Multimodal-Guided Transformer Architecture for Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11133601)/Code
+
+
+
 
 
 
