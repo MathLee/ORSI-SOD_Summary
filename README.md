@@ -55,6 +55,8 @@
 :triangular_flag_on_post:28 | **IEEE TGRS** | Advancing Segment Anything Model for Efficient Salient Object Detection in Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11146877)/Code
 :triangular_flag_on_post:29 | **IEEE JSTARS** | Robust Salient Object Detection in Optical Remote Sensing Images Via Multiscale Contextual Attention and Feature Enhancement | [Paper](https://ieeexplore.ieee.org/document/11146790)/[Code](https://github.com/Wyqmiao/RoCAFENet)
 :triangular_flag_on_post:30 | **IEEE GRSL** | Multimodal-Guided Transformer Architecture for Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11133601)/Code
+:triangular_flag_on_post:31 | **Optics & Laser Technology** | Multi-Scale Attention Coordination Network for Remote Sensing Image Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0030399225013428)/Code
+:triangular_flag_on_post:32 | **IEEE TGRS** | Structured Cross-Resolution Distillation for Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11124833)/[Code](https://github.com/lyf0801/SCRKD)
 
 
 
