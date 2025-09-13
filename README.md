@@ -60,6 +60,7 @@
 :triangular_flag_on_post:33 | **IEEE TGRS** | Adversarial Robust Salient Object Detection in Optical Remote Sensing Images With Implicit Feature Enhancement | [Paper](https://ieeexplore.ieee.org/document/11124229)/[Code](https://github.com/kexi0714/IFe)
 :triangular_flag_on_post:34 | **DSP** | Edge Semantic Collaboration Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S1051200425005585)/Code
 :triangular_flag_on_post:35 | **Journal of Computational Design and Engineering** | ScribbleSAM: Weakly Supervised Salient Object Detection and Localization in Remote Sensing Images using Transformer and Segment Anything Model | [Paper](https://academic.oup.com/jcde/article/12/9/1/8222498)/Code
+:triangular_flag_on_post:36 | **Journal of Physics: Conference Series** | Multi-scale Dynamic Convolution and Attention-Guided Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/3083/1/012005)/Code
 
 
 
