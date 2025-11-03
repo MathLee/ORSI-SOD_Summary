@@ -63,6 +63,8 @@
 :triangular_flag_on_post:36 | **Journal of Physics: Conference Series** | Multi-scale Dynamic Convolution and Attention-Guided Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://iopscience.iop.org/article/10.1088/1742-6596/3083/1/012005)/Code
 :triangular_flag_on_post:37 | **IEEE TCYB** | Cross-Model Nested Fusion Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11163514)/Code
 :triangular_flag_on_post:38 | **IEEE TGRS** | Topology-Aware Hierarchical Mamba for Salient Object Detection in Remote Sensing Imagery | [Paper](https://ieeexplore.ieee.org/document/11180127)/[Code](https://github.com/LazyShark2001/THMNet)
+:triangular_flag_on_post:39 | **EAAI** | Semantic Awareness Aggregation for Salient Object Detection in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625018391?via%3Dihub)/[Code](https://github.com/nzmtnh/SAANet)
+
 
 
 
