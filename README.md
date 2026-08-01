@@ -55,8 +55,8 @@
 26 | **IEEE TCYB** | Global–Local Interaction and Recalibration Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11543482)/Code
 27 | **IEEE TGRS** | Spatial-Frequency Enhancement and Scale-Decoupled Refinement Network for Salient Object Detection in ORSI | [Paper](https://ieeexplore.ieee.org/document/11552797)/[Code](https://github.com/hjy0518/SESRNet/)
 28 | **IEEE TGRS** | Multiscale Difference Excitation Networks for Efficient Salient Object Detection in Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11554111)/Code
-:triangular_flag_on_post:29 | **IEEE JSTARS** | ESFNet: Edge-Guided Stratified Fusion Network for Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11556228)/Code
-:triangular_flag_on_post:30 | **IEEE TGRS** | Cross-Modal Fusion with UVI Enhancement for Salient Object Detection in Low-Light ORSI Images | [Paper](https://ieeexplore.ieee.org/document/11560967)/[Code](https://github.com/elaxEgan/DarkSalNet)
+29 | **IEEE JSTARS** | ESFNet: Edge-Guided Stratified Fusion Network for Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11556228)/Code
+30 | **IEEE TGRS** | Cross-Modal Fusion with UVI Enhancement for Salient Object Detection in Low-Light ORSI Images | [Paper](https://ieeexplore.ieee.org/document/11560967)/[Code](https://github.com/elaxEgan/DarkSalNet)
 :triangular_flag_on_post:31 | **IJCV** | IPDiff: Diffusion-driven ORSI Salient Object Detection with Information Reconstruction and Multi-Prior Guidance | [Paper](https://link.springer.com/article/10.1007/s11263-026-02931-y)/[Code](https://github.com/MathLee/IPDiff)
 :triangular_flag_on_post:32 | **IEEE Access** | ORSI-Phoenix: A Cross-Task Learning Framework for Optical Remote Sensing Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/11570867)/Code
 :triangular_flag_on_post:33 | **Concurrency and Computation: Practice and Experience** | LDSINet: Lightweight Dual-Stream Integration Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.70769)/Code
@@ -64,6 +64,7 @@
 :triangular_flag_on_post:35 | **IVC** | Attention Interaction and Multiple Residual Integration Network for Salient Object Detection in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885626002246)/Code
 :triangular_flag_on_post:36 | **IEEE JSTARS** | Spatial Semantic Information Interaction for Lightweight Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11600590)/[Code](https://github.com/WangJoker7/SSINet)
 :triangular_flag_on_post:37 | **Neurocomputing** | Weakly Supervised Salient Object Detection in Optical Remote Sensing Images based on Multi-directional Nesting and Edge Scan Fusion | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231226019351)/Code
+:triangular_flag_on_post:38 | **ICISCT** | EGNet: Edge-Guided Graph Refinement Network for Salient Object Detection in Remote Sensing Images | [Paper](https://link.springer.com/chapter/10.1007/978-981-92-2879-9_30)/Code
 
 
 
