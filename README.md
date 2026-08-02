@@ -65,6 +65,7 @@
 :triangular_flag_on_post:36 | **IEEE JSTARS** | Spatial Semantic Information Interaction for Lightweight Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11600590)/[Code](https://github.com/WangJoker7/SSINet)
 :triangular_flag_on_post:37 | **Neurocomputing** | Weakly Supervised Salient Object Detection in Optical Remote Sensing Images based on Multi-directional Nesting and Edge Scan Fusion | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231226019351)/Code
 :triangular_flag_on_post:38 | **ICISCT** | EGNet: Edge-Guided Graph Refinement Network for Salient Object Detection in Remote Sensing Images | [Paper](https://link.springer.com/chapter/10.1007/978-981-92-2879-9_30)/Code
+:triangular_flag_on_post:39 | **Expert Systems with Applications** | Multi-scale Fusion Diffusion Network for Salient Object Detection in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417426027703)/Code
 
 
 
