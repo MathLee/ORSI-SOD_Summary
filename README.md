@@ -67,6 +67,7 @@
 :triangular_flag_on_post:38 | **ICISCT** | EGNet: Edge-Guided Graph Refinement Network for Salient Object Detection in Remote Sensing Images | [Paper](https://link.springer.com/chapter/10.1007/978-981-92-2879-9_30)/Code
 :triangular_flag_on_post:39 | **Expert Systems with Applications** | Multi-scale Fusion Diffusion Network for Salient Object Detection in Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417426027703)/Code
 :triangular_flag_on_post:40 | **Engineering Applications of Artificial Intelligence** | Physics-guided and Dual Attention Salient Object Detection in Sand-dust Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197626021974)/[Code](https://github.com/TurnHug/PGDANet-main)
+:triangular_flag_on_post:41 | **Youth Academic Annual Conference of Chinese Association of Automation** | Vision Mamba-driven Salient Object Detection for Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11616018)/Code
 
 
 
