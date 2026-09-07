@@ -135,6 +135,7 @@
 47 | **IEEE TGRS** | DiffORSINet: Salient Object Detection in Optical Remote Sensing Images via Conditional Diffusion Model | [Paper](https://ieeexplore.ieee.org/document/11300912)/[Code](https://github.com/hyy-qd/DiffORSINet)
 48 | **ESWA** | Multi-source Information Fusion Attention Network for Weakly Supervised Salient Object Detection in Optical Remote Sensing Images | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417424023728)/Code
 49 | **IEEE TGRS** | DINet: Depth-Guided and Iterative Refinement Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/11289537)/Code
+50 | **arxiv** | SPLG-Mamba: Structure-Preserving Local-Global Mamba Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/abs/2608.29626)/[Code](https://github.com/yxu9910/SPLG-Mamba)
 
 
 
